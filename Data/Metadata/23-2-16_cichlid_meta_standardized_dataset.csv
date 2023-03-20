@@ -1,0 +1,181 @@
+primary_id,simple_id,supplier_id,seq_depth,subset,clade,exclude,genus,species,sex,location,sublocation,notes,source,names,name_loc
+CICHM16429756,AltPet15,D14-C03,40.1,1,Deep,,Alticorpus,peterdaviesi,,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+cichlid7020159,AltPet7,D14-B05,18.1,1,Deep,,Alticorpus,peterdaviesi,M,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+cichlid7020163,AltPet11,D14-B09,17.6,1,Deep,,Alticorpus,peterdaviesi,M,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+cichlid7020156,AltPet4,D14-B01,18.9,1,Deep,,Alticorpus,peterdaviesi,M,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+cichlid7020157,AltPet5,D14-B02,18.3,1,Deep,,Alticorpus,peterdaviesi,F?,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+cichlid7020168,AltPet19,D14-C07,18.3,1,Deep,,Alticorpus,peterdaviesi,,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+cichlid7020158,AltPet6,D14-B03,19.3,1,Deep,,Alticorpus,peterdaviesi,M,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+cichlid7020162,AltPet10,D14-B08,20.7,1,Deep,,Alticorpus,peterdaviesi,F?,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+CICHM16429757,AltPet16,D14-C04,30.6,1,Deep,,Alticorpus,peterdaviesi,,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+CICHM16429755,AltPet14,D14-C02,41.6,1,Deep,,Alticorpus,peterdaviesi,,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+cichlid7020160,AltPet8,D14-B06,17.1,1,Deep,,Alticorpus,peterdaviesi,F?,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+cichlid7020167,AltPet18,D14-C06,19.4,1,Deep,,Alticorpus,peterdaviesi,,Cape_Maclear,,trawl,,Alticorpus peterdaviesi,Alticorpus peterdaviesi.Cape_Maclear
+cichl187580151,CalMas172,D31-A03,13.8,3,AstCal,,Astatotilapia,calliptera,M,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichl187580087,CalMas108,D30-B04,13.7,3,AstCal,,Astatotilapia,calliptera,M,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichl187580484,CalMas265,G02-F02,14.8,3,AstCal,,Astatotilapia,calliptera,M,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichl187580120,CalMas141,D30-F05,15.8,3,AstCal,,Astatotilapia,calliptera,M,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichl187580492,CalMas273,G03-G01,13.9,3,AstCal,,Astatotilapia,calliptera,M,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichl187580140,CalMas161,D30-H05,15,3,AstCal,,Astatotilapia,calliptera,M,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichl187580072,CalMas93,D29-I01,19.4,3,AstCal,,Astatotilapia,calliptera,F,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichl187580139,CalMas160,D30-H04,16.7,3,AstCal,,Astatotilapia,calliptera,M,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichl187580148,CalMas169,D30-H10,17.2,3,AstCal,,Astatotilapia,calliptera,F,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichl187580527,CalMas308,G06-H08,16.2,3,AstCal,,Astatotilapia,calliptera,M,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichl187580103,CalMas124,D30-D08,12.8,3,AstCal,,Astatotilapia,calliptera,M,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichl187580483,CalMas264,G02-D08,15.1,3,AstCal,,Astatotilapia,calliptera,M,Lake_Masoko,5-20m,,181107.MassokoMaster,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Masoko
+cichlid7050774,CalKin13,D16-E08,15.7,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10I05,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050770,CalKin9,D16-E04,16.9,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10J02,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050779,CalKin18,D16-F04,18.4,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10H08,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050765,CalKin4,D16-D08,13.1,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10J01,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050775,CalKin14,D16-E09,15.5,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10I04,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050781,CalKin20,D16-F06,18,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10I06,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050769,CalKin8,D16-E03,16.8,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10I02,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050772,CalKin11,D16-E06,18.1,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10I10,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050763,CalKin2,D16-D06,15.7,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10I07,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050773,CalKin12,D16-E07,16.7,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10I03,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050766,CalKin5,D16-D09,16.5,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10J05,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050777,CalKin16,D16-F02,17.4,1,AstCal,,Astatotilapia,calliptera,M,Lake_Kingiri,shallow,G10J04,,Astatotilapia calliptera,Astatotilapia calliptera.Lake_Kingiri
+cichlid7050681,CopChr35,D18-G03,19.8,1,Utaka,,Copadichromis,chrysonotus,,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid7050685,CopChr39,D18-G07,18.3,1,Utaka,,Copadichromis,chrysonotus,,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid6779918,CopChr31,D18-F08,16.9,1,Utaka,,Copadichromis,chrysonotus,M,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid6779916,CopChr29,D18-F06,16.7,1,Utaka,,Copadichromis,chrysonotus,M,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid7050682,CopChr36,D18-G04,17.2,1,Utaka,,Copadichromis,chrysonotus,F,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid7050680,CopChr34,D18-G02,17.3,1,Utaka,,Copadichromis,chrysonotus,F,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid7050678,CopChr32,D18-F10,19.2,1,Utaka,,Copadichromis,chrysonotus,F,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid7050683,CopChr37,D18-G05,17.7,1,Utaka,,Copadichromis,chrysonotus,,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid6779913,CopChr26,D18-F03,17.9,1,Utaka,,Copadichromis,chrysonotus,M,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid7050684,CopChr38,D18-G06,18.7,1,Utaka,,Copadichromis,chrysonotus,F,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid7050679,CopChr33,D18-G01,17.1,1,Utaka,,Copadichromis,chrysonotus,F,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid6779915,CopChr28,D18-F05,17.1,1,Utaka,,Copadichromis,chrysonotus,M,Lake_Malombe,Chimwala,,,Copadichromis chrysonotus,Copadichromis chrysonotus.Lake_Malombe
+cichlid6780007,CopVir126,D27-E02,17.6,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,black head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid6779978,CopVir106,D22-B05,18,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,black head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid6779979,CopVir107,D22-B06,15.3,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,black head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid7020343,CopVir119,D22-I07,16,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,yellow head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid6779982,CopVir110,D22-G04,17.1,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,black head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid6780008,CopVir127,D27-E03,15.3,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,black head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid6779986,CopVir114,D22-G08,17.2,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,black head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid6779974,CopVir102,D22-B01,16.7,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,black head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid6779985,CopVir113,D22-G07,14.3,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,black head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid7020344,CopVir120,D22-I08,16.2,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,yellow head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid6780004,CopVir123,D27-D09,13.1,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,black head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid6779973,CopVir101,D22-A10,17.6,1,Utaka,,Copadichromis,virginalis,M,Southwest_arm,Msaka,black head yellow dorsal,,Copadichromis virginalis,Copadichromis virginalis.Southwest_arm
+cichlid7020325,CopVir87,D20-I03,17,1,Utaka,,Copadichromis,virginalis,M,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid6779961,CopVir100,D21-E05,17.2,1,Utaka,,Copadichromis,virginalis,F,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid6779925,CopVir76,D20-F02,15.9,1,Utaka,,Copadichromis,virginalis,M,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid6779923,CopVir74,D20-E10,15.2,1,Utaka,,Copadichromis,virginalis,M,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid7020329,CopVir91,D20-I07,17.1,1,Utaka,,Copadichromis,virginalis,M,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid6779929,CopVir80,D20-F06,13.9,1,Utaka,,Copadichromis,virginalis,M,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid6779957,CopVir97,D21-E01,17.1,1,Utaka,,Copadichromis,virginalis,F,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid6779958,CopVir98,D21-E02,18.8,1,Utaka,,Copadichromis,virginalis,F,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid6779924,CopVir75,D20-F01,15.8,1,Utaka,,Copadichromis,virginalis,F,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid6779928,CopVir79,D20-F05,14.5,1,Utaka,,Copadichromis,virginalis,M,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid6779934,CopVir85,D20-G01,17.3,1,Utaka,,Copadichromis,virginalis,M,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid6779921,CopVir72,D20-E08,15.4,1,Utaka,,Copadichromis,virginalis,M,Lake_Malombe,,,,Copadichromis virginalis,Copadichromis virginalis.Lake_Malombe
+cichlid6979186,CynAfr42,D26-F02,17,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,Unicuspid,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid6979181,CynAfr37,D26-E07,17.4,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,Unicuspid,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid6979189,CynAfr45,D26-F05,18.5,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,Unicuspid,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid6979187,CynAfr43,D26-F03,18.4,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,Unicuspid,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid6979193,CynAfr49,D26-F09,19.7,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid6979180,CynAfr36,D26-E06,16.6,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,Unicuspid,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid6979197,CynAfr53,D26-G03,19.4,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid6979185,CynAfr41,D26-F01,17.5,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,Unicuspid,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid6979195,CynAfr51,D26-G01,19.2,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid6979168,CynAfr24,D26-D04,16.9,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,No upper teeth,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid6979191,CynAfr47,D26-F07,17.5,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid6979178,CynAfr34,D26-E04,18.3,1,Mbuna,,Cynotilapia,zebroides,,Cape_Maclear,Thumbi_West,Unicuspid,,Cynotilapia zebroides,Cynotilapia zebroides.Cape_Maclear
+cichlid7020359,DipLim33,D23-A04,18.1,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020350,DipLim24,D22-J05,18.2,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020345,DipLim19,D22-I10,13.3,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020353,DipLim27,D22-J08,17.7,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020351,DipLim25,D22-J06,15.9,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020356,DipLim30,D23-A01,17.2,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020347,DipLim21,D22-J02,16.4,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020360,DipLim34,D23-A05,16.8,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020346,DipLim20,D22-J01,16,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020352,DipLim26,D22-J07,17.3,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020354,DipLim28,D22-J09,16.8,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020355,DipLim29,D22-J10,17.9,1,Diplo,,Diplotaxodon,limnothrissa,,Southwest_arm,Msaka,,,Diplotaxodon limnothrissa,Diplotaxodon limnothrissa.Southwest_arm
+cichlid7020296,FosRos16,D19-B01,16.3,1,Benthic,,Fossorochromis,rostratus,F,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid7050708,FosRos12,D19-A07,22,1,Benthic,,Fossorochromis,rostratus,M,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid7050707,FosRos11,D19-A06,23.3,1,Benthic,,Fossorochromis,rostratus,M,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid7050706,FosRos10,D19-A05,18.4,1,Benthic,,Fossorochromis,rostratus,M,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid7020300,FosRos20,D19-B05,16,1,Benthic,,Fossorochromis,rostratus,,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid7020297,FosRos17,D19-B02,16.1,1,Benthic,,Fossorochromis,rostratus,,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid7020299,FosRos19,D19-B04,17.3,1,Benthic,,Fossorochromis,rostratus,,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid7020295,FosRos15,D19-A10,16.3,1,Benthic,,Fossorochromis,rostratus,M,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid7020298,FosRos18,D19-B03,15,1,Benthic,,Fossorochromis,rostratus,,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid7020294,FosRos14,D19-A09,18.3,1,Benthic,,Fossorochromis,rostratus,M,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid7020301,FosRos21,D19-B06,19.1,1,Benthic,,Fossorochromis,rostratus,,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid7050709,FosRos13,D19-A08,13.5,1,Benthic,,Fossorochromis,rostratus,M,Lake_Malombe,Chimwala,,,Fossorochromis rostratus,Fossorochromis rostratus.Lake_Malombe
+cichlid6994091,LabFue14,D05-E09,17,1,Mbuna,,Labeotropheus,fuelleborni,M,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994074,LabFue9,D05-D02,19.5,1,Mbuna,,Labeotropheus,fuelleborni,M,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994075,LabFue10,D05-D04,13.9,1,Mbuna,,Labeotropheus,fuelleborni,M,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994064,LabFue3,D05-C01,16.4,1,Mbuna,,Labeotropheus,fuelleborni,M,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994071,LabFue5,D05-C08,18.7,1,Mbuna,,Labeotropheus,fuelleborni,F,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994090,LabFue13,D05-E08,15.6,1,Mbuna,,Labeotropheus,fuelleborni,M,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994099,LabFue20,D05-F07,17.7,1,Mbuna,,Labeotropheus,fuelleborni,F,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994092,LabFue15,D05-E10,16.3,1,Mbuna,,Labeotropheus,fuelleborni,F?,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994073,LabFue8,D05-D01,21.1,1,Mbuna,,Labeotropheus,fuelleborni,M,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994095,LabFue16,D05-F03,15.9,1,Mbuna,,Labeotropheus,fuelleborni,,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994072,LabFue6,D05-C09,19.4,1,Mbuna,,Labeotropheus,fuelleborni,F,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994082,LabFue11,D05-E01,15.3,1,Mbuna,,Labeotropheus,fuelleborni,M,Chilumba,Luwino_reef,,,Labeotropheus fuelleborni,Labeotropheus fuelleborni.Chilumba
+cichlid6994002,LabTre7,D04-B04,17.4,1,Mbuna,,Labeotropheus,trewavasae,M,Chilumba,Mphanga_rocks,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+cichlid6994076,LabTre16,D05-D05,15.1,1,Mbuna,,Labeotropheus,trewavasae,M,Chilumba,Luwino_reef,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+cichlid6994079,LabTre19,D05-D08,16.8,1,Mbuna,,Labeotropheus,trewavasae,F,Chilumba,Luwino_reef,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+cichlid6994000,LabTre4,D04-B02,18.9,1,Mbuna,,Labeotropheus,trewavasae,M,Chilumba,Mphanga_rocks,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+cichlid6994087,LabTre24,D05-E05,13.9,1,Mbuna,,Labeotropheus,trewavasae,F?,Chilumba,Luwino_reef,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+cichlid6994088,LabTre25,D05-E06,17.3,1,Mbuna,,Labeotropheus,trewavasae,M,Chilumba,Luwino_reef,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+cichlid6994004,LabTre9,D04-B06,17.1,1,Mbuna,,Labeotropheus,trewavasae,F,Chilumba,Mphanga_rocks,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+cichlid6994093,LabTre27,D05-F01,16,1,Mbuna,,Labeotropheus,trewavasae,M,Chilumba,Luwino_reef,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+cichlid6994086,LabTre23,D05-E04,16,1,Mbuna,,Labeotropheus,trewavasae,M,Chilumba,Luwino_reef,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+cichlid6994069,LabTre14,D05-C06,14.8,1,Mbuna,,Labeotropheus,trewavasae,F,Chilumba,Luwino_reef,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+CICHM16429675,LabTre2,D04-A10,35,1,Mbuna,,Labeotropheus,trewavasae,M,Chilumba,Mphanga_rocks,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+cichlid6994066,LabTre11,D05-C03,16.5,1,Mbuna,,Labeotropheus,trewavasae,F,Chilumba,Luwino_reef,,,Labeotropheus trewavasae,Labeotropheus trewavasae.Chilumba
+cichlid6979217,MayZeb66,D27-H07,16.7,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid6979175,MayZeb82,D26-E01,15.4,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,Intermediately dense bicuspid - reclassified from C.afra to M.zebra 190922 based on genetics,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid6979210,MayZeb59,D27-G10,17.5,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid6979214,MayZeb63,D27-H04,18.4,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid6979209,MayZeb58,D27-G09,17.3,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid6979211,MayZeb60,D27-H01,19.4,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid6979206,MayZeb55,D27-G06,18.8,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid6979222,MayZeb71,D27-I02,18.8,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid6979171,MayZeb79,D26-D07,15.2,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,Broad bicuspid - reclassified from C.afra to M.zebra 190922 based on genetics,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid6979169,MayZeb77,D26-D05,17.8,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,Broad bicuspid - reclassified from C.afra to M.zebra 190922 based on genetics,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid6979220,MayZeb69,D27-H10,17,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid6978982,MayZeb16,D23-E03,17,1,Mbuna,,Maylandia,zebra,,Cape_Maclear,Thumbi_West,,,Maylandia zebra,Maylandia zebra.Cape_Maclear
+cichlid7050667,OtoArg14,D18-C10,18.6,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050662,OtoArg9,D18-C05,15.4,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050664,OtoArg11,D18-C07,18.1,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050673,OtoArg20,D18-E02,18.2,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050665,OtoArg12,D18-C08,17.6,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050668,OtoArg15,D18-D07,15.8,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050669,OtoArg16,D18-D08,16.2,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050635,OtoArg2,D17-G04,18,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050666,OtoArg13,D18-C09,16.6,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050636,OtoArg3,D17-G05,17,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050634,OtoArg1,D17-G03,16.6,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050670,OtoArg17,D18-D09,17.4,1,Benthic,,Otopharynx,argyrosoma,M,Southeast_arm,Palm_beach,,,Otopharynx argyrosoma,Otopharynx argyrosoma.Southeast_arm
+cichlid7050622,ChiRho15,D14-I10,17.2,1,Benthic,,Chilotilapia,rhoadesii,,Southwest_arm,,,,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Southwest_arm
+cichlid7020287,ChiRho6,D12-E07,17.4,1,Benthic,,Chilotilapia,rhoadesii,,Makanjila,,trawl at 20m,,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Makanjila
+cichlid7050624,ChiRho17,D14-J02,17.6,1,Benthic,,Chilotilapia,rhoadesii,,Southwest_arm,,,,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Southwest_arm
+cichlid7050623,ChiRho16,D14-J01,14.5,1,Benthic,,Chilotilapia,rhoadesii,,Southwest_arm,,,,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Southwest_arm
+cichlid7050618,ChiRho11,D14-I06,20.5,1,Benthic,,Chilotilapia,rhoadesii,,Southwest_arm,,,,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Southwest_arm
+cichlid7050619,ChiRho12,D14-I07,18.3,1,Benthic,,Chilotilapia,rhoadesii,,Southwest_arm,,,,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Southwest_arm
+cichlid7020286,ChiRho5,D12-E06,17.4,1,Benthic,,Chilotilapia,rhoadesii,,Makanjila,,trawl at 20m,,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Makanjila
+cichlid7020125,ChiRho7,D13-D05,15.5,1,Benthic,,Chilotilapia,rhoadesii,F?,Southeast_arm,Mangochi_bay,trawl,,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Southeast_arm
+cichlid7050620,ChiRho13,D14-I08,17.2,1,Benthic,,Chilotilapia,rhoadesii,,Southwest_arm,,,,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Southwest_arm
+cichlid7020127,ChiRho9,D13-E02,15.3,1,Benthic,,Chilotilapia,rhoadesii,M,Southeast_arm,Mangochi_bay,trawl,,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Southeast_arm
+cichlid7050625,ChiRho18,D14-J03,16,1,Benthic,,Chilotilapia,rhoadesii,,Southwest_arm,,,,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Southwest_arm
+ILBCDS5879529,ChiRho1,CHR1,17,1,Benthic,,Chilotilapia,rhoadesii,,Southeast_arm,,,140715.manifest,Chilotilapia rhoadesii,Chilotilapia rhoadesii.Southeast_arm
+CICHM16429619,RhaLon4,D02-J01,35.6,1,Rhampho,,Rhamphochromis,longiceps,M,Nkhata_Bay,,,,Rhamphochromis longiceps,Rhamphochromis longiceps.Nkhata_Bay
+CICHM16429621,RhaLon6,D03-D05,31.7,1,Rhampho,,Rhamphochromis,longiceps,M,Nkhata_Bay,,,,Rhamphochromis longiceps,Rhamphochromis longiceps.Nkhata_Bay
+CICHM16429628,RhaLon14,D12-D03,33.7,1,Rhampho,,Rhamphochromis,longiceps,,Makanjila,,trawl at 20m,,Rhamphochromis longiceps,Rhamphochromis longiceps.Makanjila
+CICHM16429630,RhaLon18,D14-E09,35.4,1,Rhampho,,Rhamphochromis,longiceps,F,Southwest_arm,,trawl at 40-48m,,Rhamphochromis longiceps,Rhamphochromis longiceps.Southwest_arm
+CICHM16429626,RhaLon12,D12-C07,35.8,1,Rhampho,,Rhamphochromis,longiceps,M,Makanjila,,trawl at 20m,,Rhamphochromis longiceps,Rhamphochromis longiceps.Makanjila
+cichlid7020282,RhaLon11,D12-C06,15.6,1,Rhampho,,Rhamphochromis,longiceps,M,Makanjila,,trawl at 20m,,Rhamphochromis longiceps,Rhamphochromis longiceps.Makanjila
+CICHM16429627,RhaLon13,D12-C08,29.6,1,Rhampho,,Rhamphochromis,longiceps,M,Makanjila,,trawl at 20m,,Rhamphochromis longiceps,Rhamphochromis longiceps.Makanjila
+CICHM16429620,RhaLon5,D02-J02,33.1,1,Rhampho,,Rhamphochromis,longiceps,M,Nkhata_Bay,,,,Rhamphochromis longiceps,Rhamphochromis longiceps.Nkhata_Bay
+CICHM16429617,RhaLon3,D02-I10,34,1,Rhampho,,Rhamphochromis,longiceps,M,Nkhata_Bay,,,,Rhamphochromis longiceps,Rhamphochromis longiceps.Nkhata_Bay
+CICHM16429616,RhaLon1,D01-A05,34.9,1,Rhampho,,Rhamphochromis,longiceps,M,Nkhata_Bay,,,,Rhamphochromis longiceps,Rhamphochromis longiceps.Nkhata_Bay
+ILBCDS6101002,RhaLon16,10,16.1,1,Rhampho,,Rhamphochromis,longiceps,,Metangula,,,,Rhamphochromis longiceps,Rhamphochromis longiceps.Metangula
+CICHM16429618,RhaLon2,D02-C03,35.3,1,Rhampho,,Rhamphochromis,longiceps,M,Nkhata_Bay,,,,Rhamphochromis longiceps,Rhamphochromis longiceps.Nkhata_Bay

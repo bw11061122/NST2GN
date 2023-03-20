@@ -1,0 +1,21 @@
+name_loc	mean_seq	location	pop_id
+Alticorpus peterdaviesi.Cape_Maclear	23.3333333333333	Cape_Maclear	Alticorpus peterdaviesi.Cape_Maclear
+Astatotilapia calliptera.Lake_Kingiri	16.5666666666667	Lake_Kingiri	Astatotilapia calliptera.Lake_Kingiri
+Astatotilapia calliptera.Lake_Masoko	15.3666666666667	Lake_Masoko	Astatotilapia calliptera.Lake_Masoko
+Chilotilapia rhoadesii.Makanjila	17.4	Makanjila	Chilotilapia rhoadesii
+Chilotilapia rhoadesii.Southeast_arm	15.9333333333333	Southeast_arm	Chilotilapia rhoadesii
+Chilotilapia rhoadesii.Southwest_arm	17.3285714285714	Southwest_arm	Chilotilapia rhoadesii
+Copadichromis chrysonotus.Lake_Malombe	17.825	Lake_Malombe	Copadichromis chrysonotus.Lake_Malombe
+Copadichromis virginalis.Lake_Malombe	16.2666666666667	Lake_Malombe	Copadichromis virginalis.Lake_Malombe
+Copadichromis virginalis.Southwest_arm	16.2	Southwest_arm	Copadichromis virginalis.Southwest_arm
+Cynotilapia zebroides.Cape_Maclear	18.0333333333333	Cape_Maclear	Cynotilapia zebroides.Cape_Maclear
+Diplotaxodon limnothrissa.Southwest_arm	16.8	Southwest_arm	Diplotaxodon limnothrissa.Southwest_arm
+Fossorochromis rostratus.Lake_Malombe	17.6333333333333	Lake_Malombe	Fossorochromis rostratus.Lake_Malombe
+Labeotropheus fuelleborni.Chilumba	17.2333333333333	Chilumba	Labeotropheus fuelleborni.Chilumba
+Labeotropheus trewavasae.Chilumba	17.9	Chilumba	Labeotropheus trewavasae.Chilumba
+Maylandia zebra.Cape_Maclear	17.4416666666667	Cape_Maclear	Maylandia zebra.Cape_Maclear
+Otopharynx argyrosoma.Southeast_arm	17.125	Southeast_arm	Otopharynx argyrosoma.Southeast_arm
+Rhamphochromis longiceps.Makanjila	28.675	Makanjila	Rhamphochromis longiceps
+Rhamphochromis longiceps.Metangula	16.1	Metangula	Rhamphochromis longiceps
+Rhamphochromis longiceps.Nkhata_Bay	34.1	Nkhata_Bay	Rhamphochromis longiceps
+Rhamphochromis longiceps.Southwest_arm	35.4	Southwest_arm	Rhamphochromis longiceps
