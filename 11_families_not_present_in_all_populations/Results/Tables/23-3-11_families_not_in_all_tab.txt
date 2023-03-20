@@ -1,0 +1,17 @@
+family	# populations
+1	Gypsy-36	8
+2	Helitron-1	5
+3	L1-Tx1-4	8
+4	L2-30	6
+5	Pao-1	14
+6	Pao-15	2
+7	Pao-8	14
+8	TcMar-Tc1-12	13
+9	Unknown-10	13
+10	Unknown-25	1
+11	Unknown-27	2
+12	Unknown-29	14
+13	Unknown-4	11
+14	Unknown-45	12
+15	Unknown-49	13
+16	Unknown-58	12

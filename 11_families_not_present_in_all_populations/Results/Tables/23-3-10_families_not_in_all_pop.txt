@@ -1,0 +1,17 @@
+family	sum_ins_ap	sum_ins_ask	sum_ins_asm	sum_ins_crhoa	sum_ins_cch	sum_ins_cvm	sum_ins_cvs	sum_ins_czeb	sum_ins_diplo	sum_ins_fr	sum_ins_fuel	sum_ins_trew	sum_ins_mzeb	sum_ins_oto	sum_ins_rham	sum_ins_all
+1	Gypsy-36	0	1	0	0	0	0	4	4	2	2	0	1	3	1	0	8
+2	Helitron-1	0	0	0	0	0	1	2	1	1	0	1	0	0	0	0	5
+3	L1-Tx1-4	7	0	0	0	0	0	2	3	2	0	1	0	5	1	12	8
+4	L2-30	6	0	0	6	0	1	0	4	0	1	0	0	2	0	0	6
+5	Pao-1	1	14	2	3	3	5	4	4	0	8	3	3	3	2	1	14
+6	Pao-15	0	0	0	0	0	0	0	2	0	0	0	0	4	0	0	2
+7	Pao-8	15	20	24	15	15	9	9	15	41	0	21	15	31	20	15	14
+8	TcMar-Tc1-12	3	0	0	4	6	7	6	10	7	5	8	8	7	8	3	13
+9	Unknown-10	4	0	0	6	2	14	2	2	8	5	15	20	2	2	7	13
+10	Unknown-25	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0	1
+11	Unknown-27	0	0	1	0	0	0	0	3	0	0	0	0	0	0	0	2
+12	Unknown-29	15	0	1	7	6	1	1	1	14	7	4	1	1	4	12	14
+13	Unknown-4	0	1	1	1	1	3	0	0	4	3	10	8	2	0	13	11
+14	Unknown-45	4	0	0	2	5	15	10	1	10	15	1	1	0	11	1	12
+15	Unknown-49	7	1	4	2	3	3	0	3	5	6	1	0	1	5	4	13
+16	Unknown-58	32	94	100	57	19	3	0	164	1	0	10	12	39	90	0	12

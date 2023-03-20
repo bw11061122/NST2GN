@@ -1,0 +1,464 @@
+"pop_id"	"sum_trps"	"sum_het_trps"	"sum_hom_trps"	"sum_nlgn"	"sum_het_nlgn"	"sum_hom_nlgn"	"N"	"maf_trps"	"maf_nlgn"
+"1"	" ."	0	0	0	2.5	0	1	3	0	33.3333333333333
+"2"	" sp. 'Rukwa sunset'."	0	0	0	0	0	0	1	0	0
+"3"	"Abactochromis labrosus.Chilumba"	0	0	0	0	0	0	1	0	0
+"4"	"Abactochromis labrosus.Chiofu"	0	0	0	1	1	0	1	0	50
+"5"	"Alticorpus geoffreyi.Cape_Maclear"	0	0	0	0	0	0	5	0	0
+"6"	"Alticorpus geoffreyi.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"7"	"Alticorpus macrocleithrum.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"8"	"Alticorpus mentale.Monkey_Bay"	0	0	0	0	0	0	1	0	0
+"9"	"Alticorpus peterdaviesi.Cape_Maclear"	0	0	0	0	0	0	14	0	0
+"10"	"Alticorpus peterdaviesi.Monkey_Bay"	0	0	0	0	0	0	3	0	0
+"11"	"Alticorpus peterdaviesi.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"12"	"Altolamprologus compressiceps.Lake_Tanganyika"	0	0	0	0	0	0	20	0	0
+"13"	"Andinocara coeruleopunctatus.Panama"	0	0	0	0	0	0	1	0	0
+"14"	"Aristochromis christyi.Makanjila"	0	0	0	2	0	1	1	0	100
+"15"	"Astatotilapia bloyeti."	0	0	0	0	0	0	3	0	0
+"16"	"Astatotilapia calliptera."	0	0	0	1	1	0	6	0	8.33333333333333
+"17"	"Astatotilapia calliptera.Bua_river"	0	0	0	0	0	0	1	0	0
+"18"	"Astatotilapia calliptera.Chitimba"	0	0	0	1	1	0	1	0	50
+"19"	"Astatotilapia calliptera.Chizumulu_island"	0	0	0	1	1	0	1	0	50
+"20"	"Astatotilapia calliptera.Enukweni"	0	0	0	1	1	0	1	0	50
+"21"	"Astatotilapia calliptera.Itupi_river"	0	0	0	0	0	0	4	0	0
+"22"	"Astatotilapia calliptera.Kitai_Dam"	0	0	0	0	0	0	1	0	0
+"23"	"Astatotilapia calliptera.Kyela"	0	0	0	0	0	0	1	0	0
+"24"	"Astatotilapia calliptera.Lake_Chidya"	0	0	0	1	1	0	1	0	50
+"25"	"Astatotilapia calliptera.Lake_Chilwa"	0	0	0	0	0	0	1	0	0
+"26"	"Astatotilapia calliptera.Lake_Itamba"	0	0	0	6	1	1	32	0	4.6875
+"27"	"Astatotilapia calliptera.Lake_Kingiri"	0	0	0	6	4	1	21	0	14.2857142857143
+"28"	"Astatotilapia calliptera.Lake_Malombe"	0	0	0	5	3	1	5	0	50
+"29"	"Astatotilapia calliptera.Lake_Masoko"	678	271	176	714.5	264	200	648	48.070987654321	51.2345679012346
+"30"	"Astatotilapia calliptera.Luwawa"	0	0	0	0	0	0	1	0	0
+"31"	"Astatotilapia calliptera.Mbaka_river"	1	1	0	0	0	0	1	50	0
+"32"	"Astatotilapia calliptera.North_Rukuru_river"	0	0	0	0	0	0	1	0	0
+"33"	"Astatotilapia calliptera.Rovuma_river"	0	0	0	1	1	0	2	0	25
+"34"	"Astatotilapia calliptera.Salima"	0	0	0	3.5	3	0	7	0	21.4285714285714
+"35"	"Astatotilapia calliptera.Songwe_river"	0	0	0	0	0	0	1	0	0
+"36"	"Astatotilapia calliptera.South_Rukuru_river"	0	0	0	0	0	0	1	0	0
+"37"	"Astatotilapia calliptera.Southwest_arm"	0	0	0	4	0	2	3	0	66.6666666666667
+"38"	"Astatotilapia gigliolii."	0	0	0	0.5	0	0	4	0	0
+"39"	"Astatotilapia gigliolii.Lake_Chiuta"	0	0	0	0	0	0	1	0	0
+"40"	"Astatotilapia sp. 'Ruaha blue'."	0	0	0	0	0	0	15	0	0
+"41"	"Astatotilapia sp. 'Ruaha yellow'."	0	0	0	0	0	0	2	0	0
+"42"	"Astatotilapia sp. 'Rufiji blue'."	0	0	0	0	0	0	2	0	0
+"43"	"Astatotilapia sp. 'Rujewa'.Rujewa"	0	0	0	0	0	0	1	0	0
+"44"	"Astatotilapia sp. 'Rukwa blue'."	0	0	0	0	0	0	1	0	0
+"45"	"Astatotilapia sp. 'Rukwa large yellow'."	0	0	0	0	0	0	1	0	0
+"46"	"Aulonocara ethelwynnae.Chilumba"	0	0	0	0	0	0	2	0	0
+"47"	"Aulonocara nyassae.Makanjila"	0	0	0	2	0	1	1	0	100
+"48"	"Aulonocara rostratum.Chilumba"	0	0	0	0	0	0	1	0	0
+"49"	"Aulonocara rostratum.Makanjila"	0	0	0	0	0	0	1	0	0
+"50"	"Aulonocara rostratum.Southwest_arm"	0	0	0	0.5	0	0	1	0	0
+"51"	"Aulonocara saulosi.Chiofu"	0	0	0	2	2	0	2	0	50
+"52"	"Aulonocara sp. 'black chin orange'.Cape_Maclear"	0	0	0	0	0	0	2	0	0
+"53"	"Aulonocara sp. 'blue Chilumba'.Chilumba"	0	0	0	0	0	0	1	0	0
+"54"	"Aulonocara sp. 'blue orange'.Chilumba"	0	0	0	4	4	0	10	0	20
+"55"	"Aulonocara sp. 'brevirostrus yellow'.Southeast_arm"	0	0	0	1	1	0	1	0	50
+"56"	"Aulonocara sp. 'brevirostrus yellow'.Southwest_arm"	0	0	0	0	0	0	2	0	0
+"57"	"Aulonocara sp. 'copper'.Monkey_Bay"	0	0	0	0	0	0	3	0	0
+"58"	"Aulonocara sp. 'deep'.Monkey_Bay"	0	0	0	0	0	0	2	0	0
+"59"	"Aulonocara sp. 'gold'.Southeast_arm"	0	0	0	2	0	1	1	0	100
+"60"	"Aulonocara sp. 'large slender'.Monkey_Bay"	0	0	0	0	0	0	1	0	0
+"61"	"Aulonocara sp. 'minutus'.Southeast_arm"	0	0	0	0.5	0	0	1	0	0
+"62"	"Aulonocara sp. 'slender orange back'.Monkey_Bay"	0	0	0	1	1	0	12	0	4.16666666666667
+"63"	"Aulonocara sp. 'yellow'.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"64"	"Aulonocara sp. 'yellow'.Southwest_arm"	0	0	0	0	0	0	12	0	0
+"65"	"Aulonocara sp..Chiofu"	0	0	0	2	2	0	3	0	33.3333333333333
+"66"	"Aulonocara sp..Nkhata_Bay"	0	0	0	0	0	0	3	0	0
+"67"	"Aulonocara stonemani.Monkey_Bay"	0	0	0	0	0	0	1	0	0
+"68"	"Aulonocara stuartgranti."	0	0	0	1	1	0	3	0	16.6666666666667
+"69"	"Aulonocara stuartgranti.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"70"	"Aulonocara stuartgranti.Usisya"	0	0	0	5.5	3	1	6	0	41.6666666666667
+"71"	"Aulonocranus dewindti.Lake_Tanganyika"	0	0	0	0	0	0	20	0	0
+"72"	"Bathybates fasciatus.Lake_Tanganyika"	0	0	0	0	0	0	20	0	0
+"73"	"Bathybates leo.Lake_Tanganyika"	0	0	0	0	0	0	20	0	0
+"74"	"Benthochromis melanoides.Lake_Tanganyika"	0	0	0	0	0	0	19	0	0
+"75"	"Buccochromis heterotaenia.Chiofu"	0	0	0	0	0	0	1	0	0
+"76"	"Buccochromis lepturus.Chilumba"	0	0	0	0	0	0	1	0	0
+"77"	"Buccochromis nototaenia.Chiofu"	0	0	0	0	0	0	1	0	0
+"78"	"Buccochromis nototaenia.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"79"	"Buccochromis rhoadesii.Chilumba"	0	0	0	0	0	0	2	0	0
+"80"	"Buccochromis rhoadesii.Chiofu"	0	0	0	0	0	0	1	0	0
+"81"	"Buccochromis rhoadesii.Lake_Masoko"	0	0	0	0	0	0	1	0	0
+"82"	"Buccochromis rhoadesii.Mbenji_island"	0	0	0	0	0	0	1	0	0
+"83"	"Buccochromis sp. 'whitefins'.Chilumba"	0	0	0	0	0	0	1	0	0
+"84"	"Champsochromis caeruleus."	0	0	0	1	1	0	2	0	25
+"85"	"Champsochromis caeruleus.Tanzania"	0	0	0	0	0	0	1	0	0
+"86"	"Champsochromis cf. spilorhynchus.Chiofu"	0	0	0	1	1	0	1	0	50
+"87"	"Cheilochromis euchilus.Chilumba"	0	0	0	0.5	0	0	1	0	0
+"88"	"Cheilochromis euchilus.Chiofu"	0	0	0	2	2	0	4	0	25
+"89"	"Chilotilapia rhoadesii"	0	0	0	12.5	7	1	17	0	26.4705882352941
+"90"	"Chindongo elongatus.Chilumba"	0	0	0	0	0	0	1	0	0
+"91"	"Chindongo elongatus.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"92"	"Chindongo minutus.Nkhata_Bay"	0	0	0	0	0	0	2	0	0
+"93"	"Copadichromis borleyi."	0	0	0	1	1	0	1	0	50
+"94"	"Copadichromis borleyi.Chilumba"	0	0	0	1	1	0	1	0	50
+"95"	"Copadichromis borleyi.Gome"	0	0	0	0	0	0	1	0	0
+"96"	"Copadichromis chrysonotus."	0	0	0	39	9	15	24	0	81.25
+"97"	"Copadichromis chrysonotus.Cape_Maclear"	0	0	0	23.5	3	10	14	0	82.1428571428571
+"98"	"Copadichromis chrysonotus.Chiofu"	0	0	0	1	1	0	1	0	50
+"99"	"Copadichromis chrysonotus.Lake_Malombe"	0	0	0	48.5	12	18	31	0	77.4193548387097
+"100"	"Copadichromis chrysonotus.Southeast_arm"	0	0	0	39	5	17	24	0	81.25
+"101"	"Copadichromis chrysonotus.Southwest_arm"	0	0	0	27	5	11	16	0	84.375
+"102"	"Copadichromis ilesi.Nkanda"	0	0	0	2	0	1	1	0	100
+"103"	"Copadichromis jacksoni.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"104"	"Copadichromis likomae.Metangula"	0	0	0	0	0	0	1	0	0
+"105"	"Copadichromis quadrimaculatus.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"106"	"Copadichromis quadrimaculatus.Southeast_arm"	0	0	0	0.5	0	0	1	0	0
+"107"	"Copadichromis sp. 'kawanga'.Nkhata_Bay"	0	0	0	1	1	0	1	0	50
+"108"	"Copadichromis sp. 'orange and no spot'.Southwest_arm"	0	0	0	0	0	0	1	0	0
+"109"	"Copadichromis sp..Cape_Maclear"	0	0	0	1	1	0	1	0	50
+"110"	"Copadichromis trewavasae."	0	0	0	2	0	1	1	0	100
+"111"	"Copadichromis trimaculatus."	0	0	0	0	0	0	1	0	0
+"112"	"Copadichromis trimaculatus.Southwest_arm"	0	0	0	1	1	0	1	0	50
+"113"	"Copadichromis verduyni.Chiofu"	0	0	0	4.5	2	1	4	0	50
+"114"	"Copadichromis virginalis."	0	0	0	16.5	10	2	24	0	29.1666666666667
+"115"	"Copadichromis virginalis.Chilumba"	0	0	0	2	2	0	2	0	50
+"116"	"Copadichromis virginalis.Lake_Malombe"	0	0	0	31.5	12	9	34	0	44.1176470588235
+"117"	"Copadichromis virginalis.Makanjila"	0	0	0	8	2	3	8	0	50
+"118"	"Copadichromis virginalis.Nkhata_Bay"	0	0	0	16.5	8	4	22	0	36.3636363636364
+"119"	"Copadichromis virginalis.Southeast_arm"	0	0	0	27	13	7	25	0	54
+"120"	"Copadichromis virginalis.Southwest_arm"	0	0	0	26.5	15	5	33	0	37.8787878787879
+"121"	"Coptodon rendalli.Zomba"	0	0	0	0	0	0	1	0	0
+"122"	"Corematodus taeniatus.Makanjila"	0	0	0	1	1	0	1	0	50
+"123"	"Ctenochromis pectoralis."	0	0	0	0	0	0	1	0	0
+"124"	"Ctenopharynx intermedius."	0	0	0	0.5	0	0	3	0	0
+"125"	"Ctenopharynx nitidus."	0	0	0	0	0	0	1	0	0
+"126"	"Ctenopharynx pictus.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"127"	"Ctenopharynx pictus.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"128"	"Cunningtonia longiventralis.Lake_Tanganyika"	0	0	0	0	0	0	19	0	0
+"129"	"Cyathochromis obliquidens.Chiofu"	0	0	0	0	0	0	1	0	0
+"130"	"Cyathochromis obliquidens.Southeast_arm"	0	0	0	1	1	0	1	0	50
+"131"	"Cynotilapia aurifrons.Chiofu"	0	0	0	0	0	0	1	0	0
+"132"	"Cynotilapia aurifrons.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"133"	"Cynotilapia axelrodi.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"134"	"Cynotilapia zebroides.Cape_Maclear"	0	0	0	7	3	2	54	0	6.48148148148148
+"135"	"Cynotilapia zebroides.Chiofu"	0	0	0	0	0	0	9	0	0
+"136"	"Cynotilapia zebroides.Nkhata_Bay"	0	0	0	0	0	0	4	0	0
+"137"	"Cyphotilapia frontosa.Lake_Tanganyika"	0	0	0	0	0	0	9	0	0
+"138"	"Cyphotilapia gibberosa.Lake_Tanganyika"	0	0	0	0	0	0	11	0	0
+"139"	"Cyrtocara moorii.Nkhata_Bay"	0	0	0	1	1	0	1	0	50
+"140"	"Dimidiochromis compressiceps.Southeast_arm"	0	0	0	2	0	1	1	0	100
+"141"	"Dimidiochromis kiwinge.Chiofu"	0	0	0	1	1	0	2	0	25
+"142"	"Dimidiochromis kiwinge.Metangula"	0	0	0	0	0	0	1	0	0
+"143"	"Dimidiochromis kiwinge.Nkhata_Bay"	0	0	0	3	3	0	4	0	37.5
+"144"	"Dimidiochromis kiwinge.Southeast_arm"	0	0	0	2	2	0	4	0	25
+"145"	"Dimidiochromis strigatus.Cape_Maclear"	0	0	0	2	0	1	1	0	100
+"146"	"Dimidiochromis strigatus.Nkhata_Bay"	0	0	0	2	0	1	1	0	100
+"147"	"Dimidiochromis strigatus.Salima"	0	0	0	2	0	1	1	0	100
+"148"	"Dimidiochromis strigatus.Southwest_arm"	0	0	0	1	1	0	1	0	50
+"149"	"Dimidiochromis strigatus.Upper_Shire"	0	0	0	1	1	0	1	0	50
+"150"	"Diplotaxodon apogon.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"151"	"Diplotaxodon argenteus.Chilumba"	0	0	0	0	0	0	1	0	0
+"152"	"Diplotaxodon cf. argenteus.Chinyankwazi"	0	0	0	0	0	0	1	0	0
+"153"	"Diplotaxodon cf. ecclesi.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"154"	"Diplotaxodon ecclesi.Monkey_Bay"	0	0	0	0	0	0	1	0	0
+"155"	"Diplotaxodon greenwoodi."	0	0	0	0	0	0	1	0	0
+"156"	"Diplotaxodon limnothrissa.Cape_Maclear"	0	0	0	0	0	0	3	0	0
+"157"	"Diplotaxodon limnothrissa.Chilumba"	0	0	0	0	0	0	4	0	0
+"158"	"Diplotaxodon limnothrissa.Chiofu"	0	0	0	0	0	0	2	0	0
+"159"	"Diplotaxodon limnothrissa.Monkey_Bay"	0	0	0	0	0	0	3	0	0
+"160"	"Diplotaxodon limnothrissa.Nkhata_Bay"	0	0	0	0	0	0	4	0	0
+"161"	"Diplotaxodon limnothrissa.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"162"	"Diplotaxodon limnothrissa.Southwest_arm"	0	0	0	1	1	0	16	0	3.125
+"163"	"Diplotaxodon macrops.Cape_Maclear"	0	0	0	1	1	0	5	0	10
+"164"	"Diplotaxodon macrops.Chilumba"	0	0	0	0	0	0	1	0	0
+"165"	"Diplotaxodon macrops.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"166"	"Diplotaxodon sp. 'big eye'.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"167"	"Diplotaxodon sp. 'big eye'.Chilumba"	0	0	0	0	0	0	1	0	0
+"168"	"Diplotaxodon sp. 'big eye'.Chiofu"	0	0	0	0	0	0	1	0	0
+"169"	"Diplotaxodon sp. 'big eye'.Nkhata_Bay"	0	0	0	0	0	0	2	0	0
+"170"	"Diplotaxodon sp. 'holochromis'.Chilumba"	0	0	0	0	0	0	1	0	0
+"171"	"Diplotaxodon sp. 'holochromis'.Nkhata_Bay"	0	0	0	0	0	0	2	0	0
+"172"	"Diplotaxodon sp. 'limnothrissa black pelvic'.Chilumba"	0	0	0	0.5	0	0	1	0	0
+"173"	"Diplotaxodon sp. 'macrops black dorsal'.Chilumba"	0	0	0	0	0	0	15	0	0
+"174"	"Diplotaxodon sp. 'macrops black dorsal'.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"175"	"Diplotaxodon sp. 'ngulube'.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"176"	"Diplotaxodon sp. 'offshore'.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"177"	"Diplotaxodon sp. 'similis large'.Monkey_Bay"	0	0	0	0	0	0	1	0	0
+"178"	"Diplotaxodon sp. 'similis large'.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"179"	"Diplotaxodon sp. 'similis white back'.Chipoka"	0	0	0	0	0	0	1	0	0
+"180"	"Diplotaxodon sp. 'similis'.Monkey_Bay"	0	0	0	0	0	0	2	0	0
+"181"	"Fossorochromis rostratus.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"182"	"Fossorochromis rostratus.Chilumba"	0	0	0	0	0	0	1	0	0
+"183"	"Fossorochromis rostratus.Chiofu"	0	0	0	2	2	0	8	0	12.5
+"184"	"Fossorochromis rostratus.Lake_Malombe"	0	0	0	1	1	0	12	0	4.16666666666667
+"185"	"Fossorochromis rostratus.Salima"	0	0	0	2	0	1	1	0	100
+"186"	"Fossorochromis rostratus.Southeast_arm"	0	0	0	5	3	1	12	0	20.8333333333333
+"187"	"Fossorochromis rostratus.Southwest_arm"	0	0	0	1	1	0	3	0	16.6666666666667
+"188"	"Genyochromis mento.Chiofu"	0	0	0	0	0	0	1	0	0
+"189"	"Gephyrochromis lawsi.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"190"	"Gephyrochromis sp. 'zebroides'.Chiofu"	0	0	0	0	0	0	1	0	0
+"191"	"Gnathochromis pfefferi.Lake_Tanganyika"	0	0	0	0	0	0	20	0	0
+"192"	"Hemibates stenosoma.Lake_Tanganyika"	0	0	0	0	0	0	32	0	0
+"193"	"Hemitaeniochromis brachyrhynchus.Nkhata_Bay"	0	0	0	2	0	1	1	0	100
+"194"	"Hemitaeniochromis sp. 'deep'.Monkey_Bay"	0	0	0	0	0	0	1	0	0
+"195"	"Hemitaeniochromis urotaenia.Chilumba"	0	0	0	2	0	1	2	0	50
+"196"	"Hemitilapia oxyrhynchus.Southeast_arm"	0	0	0	0.5	0	0	2	0	0
+"197"	"Iodotropheus sprengerae.Chiofu"	0	0	0	0	0	0	1	0	0
+"198"	"Julidochromis ornatus.Lake_Tanganyika"	0	0	0	0	0	0	20	0	0
+"199"	"Labeotropheus fuelleborni.Chilumba"	0	0	0	1	1	0	25	0	2
+"200"	"Labeotropheus fuelleborni.Chiofu"	0	0	0	0	0	0	1	0	0
+"201"	"Labeotropheus fuelleborni.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"202"	"Labeotropheus trewavasae.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"203"	"Labeotropheus trewavasae.Chilumba"	0	0	0	0	0	0	26	0	0
+"204"	"Labeotropheus trewavasae.Chiofu"	0	0	0	0	0	0	2	0	0
+"205"	"Labeotropheus trewavasae.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"206"	"Labidochromis caeruleus.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"207"	"Labidochromis cf. vellicans.Chiofu"	0	0	0	0	0	0	1	0	0
+"208"	"Labidochromis sp. 'zebra eastern'.Chiofu"	0	0	0	0	0	0	1	0	0
+"209"	"Labidochromis sp..Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"210"	"Lamprologus lemairii.Lake_Tanganyika"	0	0	0	0	0	0	16	0	0
+"211"	"Lepidiolamprologus profundicola.Lake_Tanganyika"	0	0	0	0	0	0	17	0	0
+"212"	"Lethrinops argenteus.Chilumba"	0	0	0	1	1	0	1	0	50
+"213"	"Lethrinops argenteus.Makanjila"	0	0	0	1	1	0	1	0	50
+"214"	"Lethrinops cf. albus."	0	0	0	0	0	0	1	0	0
+"215"	"Lethrinops cf. macrochir.Southeast_arm"	0	0	0	2	0	1	1	0	100
+"216"	"Lethrinops cf. oculatus.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"217"	"Lethrinops gossei.Cape_Maclear"	0	0	0	0	0	0	10	0	0
+"218"	"Lethrinops gossei.Chinyankwazi"	0	0	0	0	0	0	1	0	0
+"219"	"Lethrinops gossei.Makanjila"	0	0	0	0	0	0	1	0	0
+"220"	"Lethrinops gossei.Monkey_Bay"	0	0	0	2	2	0	8	0	12.5
+"221"	"Lethrinops gossei.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"222"	"Lethrinops lethrinus.Mazinzi_reef"	0	0	0	0	0	0	4	0	0
+"223"	"Lethrinops lethrinus.Southeast_arm"	0	0	0	3	3	0	11	0	13.6363636363636
+"224"	"Lethrinops longimanus.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"225"	"Lethrinops parvidens.Makanjila"	0	0	0	0	0	0	1	0	0
+"226"	"Lethrinops sp. 'albus deep water'.Monkey_Bay"	0	0	0	0	0	0	2	0	0
+"227"	"Lethrinops sp. 'albus green head'.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"228"	"Lethrinops sp. 'albus red head'.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"229"	"Lethrinops sp. 'black chin'.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"230"	"Lethrinops sp. 'blue nose'.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"231"	"Lethrinops sp. 'dark'.Southwest_arm"	0	0	0	0	0	0	1	0	0
+"232"	"Lethrinops sp. 'longipinnis blue head'.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"233"	"Lethrinops sp. 'longipinnis white lappets'.Southwest_arm"	0	0	0	0	0	0	1	0	0
+"234"	"Lethrinops sp. 'oliveri'.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"235"	"Lethrinops sp. 'six bar'.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"236"	"Lethrinops sp. 'yellow head'.Southeast_arm"	0	0	0	0.5	0	0	1	0	0
+"237"	"Lobochilotes labiatus.Lake_Tanganyika"	0	0	0	0	0	0	20	0	0
+"238"	"Maylandia aurora.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"239"	"Maylandia callainos.Chilumba"	0	0	0	0	0	0	25	0	0
+"240"	"Maylandia callainos.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"241"	"Maylandia emmiltos.Chilumba"	0	0	0	0	0	0	30	0	0
+"242"	"Maylandia estherae.Chiofu"	0	0	0	0	0	0	2	0	0
+"243"	"Maylandia fainzilberi.Chilumba"	0	0	0	0	0	0	72	0	0
+"244"	"Maylandia sp. 'lanisticola north'.Chilumba"	0	0	0	0	0	0	7	0	0
+"245"	"Maylandia sp. 'pearly'.Chilumba"	0	0	0	0	0	0	17	0	0
+"246"	"Maylandia sp. 'zebra gold'.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"247"	"Maylandia zebra.Cape_Maclear"	0	0	0	0	0	0	66	0	0
+"248"	"Maylandia zebra.Chiofu"	0	0	0	0	0	0	5	0	0
+"249"	"Maylandia zebra.Matema"	0	0	0	0	0	0	1	0	0
+"250"	"Maylandia zebra.Nkhata_Bay"	0	0	0	0	0	0	9	0	0
+"251"	"Mchenga sp. 'black yellow'.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"252"	"Mchenga sp. 'black yellow'.Southwest_arm"	0	0	0	1	1	0	1	0	50
+"253"	"Mchenga sp. 'chiofu'.Chiofu"	0	0	0	0	0	0	1	0	0
+"254"	"Mchenga sp. 'chirombo 1'.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"255"	"Mchenga sp. 'chirombo 2'.Southeast_arm"	0	0	0	2	0	1	1	0	100
+"256"	"Melanochromis auratus.Senga_Bay"	0	0	0	0	0	0	19	0	0
+"257"	"Melanochromis baliodigma.Chiofu"	0	0	0	0	0	0	1	0	0
+"258"	"Melanochromis dialeptos.Chiofu"	0	0	0	0	0	0	1	0	0
+"259"	"Melanochromis loriae.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"260"	"Melanochromis robustus.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"261"	"Melanochromis simulans.Chiofu"	0	0	0	0	0	0	1	0	0
+"262"	"Mylochromis anaphyrmus."	0	0	0	0	0	0	4	0	0
+"263"	"Mylochromis anaphyrmus.Chilumba"	0	0	0	1	1	0	1	0	50
+"264"	"Mylochromis anaphyrmus.Makanjila"	0	0	0	0	0	0	1	0	0
+"265"	"Mylochromis anaphyrmus.Southeast_arm"	0	0	0	0.5	0	0	2	0	0
+"266"	"Mylochromis cf. ericotaenia.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"267"	"Mylochromis cf. guentheri.Chiofu"	0	0	0	0	0	0	1	0	0
+"268"	"Mylochromis cf. mollis.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"269"	"Mylochromis cf. obtusus.Makanjila"	0	0	0	0	0	0	1	0	0
+"270"	"Mylochromis cf. subocularis.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"271"	"Mylochromis ensatus.Southeast_arm"	0	0	0	0.5	0	0	1	0	0
+"272"	"Mylochromis epichoralis.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"273"	"Mylochromis labidodon.Chiofu"	0	0	0	0	0	0	1	0	0
+"274"	"Mylochromis melanonotus.Southwest_arm"	0	0	0	0	0	0	1	0	0
+"275"	"Mylochromis melanotaenia.Chiwanga"	0	0	0	0	0	0	1	0	0
+"276"	"Mylochromis sp..Chiofu"	0	0	0	0	0	0	1	0	0
+"277"	"Mylochromis spilostichus.Makanjila"	0	0	0	4	0	2	2	0	100
+"278"	"Mylochromis spilostichus.Southeast_arm"	0	0	0	4	0	2	2	0	100
+"279"	"Mylochromis subocularis.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"280"	"Mylochromis subocularis.Makanjila"	0	0	0	0	0	0	1	0	0
+"281"	"Mylochromis subocularis.Southeast_arm"	0	0	0	1	0	0	20	0	0
+"282"	"Naevochromis chrysogaster.Chiofu"	0	0	0	2	0	1	1	0	100
+"283"	"Neolamprologus brevis.Lake_Tanganyika"	0	0	0	0	0	0	19	0	0
+"284"	"Neolamprologus toae.Lake_Tanganyika"	0	0	0	0	0	0	15	0	0
+"285"	"Nimbochromis fuscotaeniatus.Chiofu"	0	0	0	0	0	0	1	0	0
+"286"	"Nimbochromis linni."	0	0	0	2	0	1	1	0	100
+"287"	"Nimbochromis livingstonii."	0	0	0	2	0	1	1	0	100
+"288"	"Nimbochromis livingstonii.Chiofu"	0	0	0	2	0	1	1	0	100
+"289"	"Nimbochromis polystigma.Dwangwa"	0	0	0	2	0	1	1	0	100
+"290"	"Nimbochromis venustus.Southwest_arm"	0	0	0	2	0	1	1	0	100
+"291"	"Oreochromis karongae.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"292"	"Oreochromis shiranus.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"293"	"Oreochromis squamipinnis.Southwest_arm"	0	0	0	0	0	0	1	0	0
+"294"	"Otopharynx argyrosoma.Lake_Malombe"	0	0	0	38	0	19	19	0	100
+"295"	"Otopharynx argyrosoma.Southeast_arm"	0	0	0	35	1	17	18	0	97.2222222222222
+"296"	"Otopharynx auromarginatus.Southwest_arm"	0	0	0	2	2	0	2	0	50
+"297"	"Otopharynx brooksi.Monkey_Bay"	0	0	0	4	0	2	2	0	100
+"298"	"Otopharynx cf. decorus.Chilumba"	0	0	0	2	0	1	1	0	100
+"299"	"Otopharynx decorus.Chilumba"	0	0	0	8	0	4	4	0	100
+"300"	"Otopharynx lithobates.Cape_Maclear"	0	0	0	2	0	1	1	0	100
+"301"	"Otopharynx selenurus.Makanjila"	0	0	0	1.5	1	0	2	0	25
+"302"	"Otopharynx sp. 'brooksi nkhata'.Nkhata_Bay"	0	0	0	2	0	1	1	0	100
+"303"	"Otopharynx sp. 'brooksi Nkhata'.Nkhata_Bay"	0	0	0	2	0	1	1	0	100
+"304"	"Otopharynx sp. 'deep'.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"305"	"Otopharynx sp. 'heterodon nankumba'.Cape_Maclear"	0	0	0	2	0	1	2	0	50
+"306"	"Otopharynx speciosus.Chilumba"	0	0	0	0	0	0	3	0	0
+"307"	"Otopharynx speciosus.Southeast_arm"	0	0	0	0	0	0	2	0	0
+"308"	"Otopharynx speciosus.Southwest_arm"	0	0	0	0	0	0	1	0	0
+"309"	"Otopharynx tetrastigma.Lake_Ilamba"	0	0	0	0	0	0	1	0	0
+"310"	"Otopharynx tetrastigma.Lake_Malombe"	0	0	0	3	1	1	3	0	50
+"311"	"Otopharynx tetrastigma.Southeast_arm"	0	0	0	3	3	0	3	0	50
+"312"	"Pallidochromis tokolosh.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"313"	"Petrochromis fasciolatus.Lake_Tanganyika"	0	0	0	0	0	0	20	0	0
+"314"	"Petrochromis polyodon.Lake_Tanganyika"	0	0	0	0	0	0	20	0	0
+"315"	"Petrotilapia cf. tridentiger.Nkhata_Bay"	0	0	0	0	0	0	3	0	0
+"316"	"Petrotilapia genalutea.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"317"	"Petrotilapia genalutea.Chilumba"	0	0	0	0	0	0	7	0	0
+"318"	"Petrotilapia genalutea.Chiofu"	0	0	0	0	0	0	6	0	0
+"319"	"Petrotilapia genalutea.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"320"	"Petrotilapia microgalana.Nkhata_Bay"	0	0	0	0.5	0	0	12	0	0
+"321"	"Petrotilapia nigra.Chiofu"	0	0	0	0	0	0	1	0	0
+"322"	"Petrotilapia sp. 'black flanks'.Chilumba"	0	0	0	0	0	0	1	0	0
+"323"	"Petrotilapia sp. 'ruare'.Chilumba"	0	0	0	0	0	0	1	0	0
+"324"	"Petrotilapia sp..Chilumba"	0	0	0	0.5	0	0	1	0	0
+"325"	"Pharyngochromis acuticeps."	0	0	0	0	0	0	1	0	0
+"326"	"Placidochromis acutirostris.Chilumba"	0	0	0	0.5	0	0	2	0	0
+"327"	"Placidochromis boops.Monkey_Bay"	0	0	0	0.5	0	0	1	0	0
+"328"	"Placidochromis cf. nkhotakotae.Southwest_arm"	0	0	0	0	0	0	1	0	0
+"329"	"Placidochromis electra."	0	0	0	0	0	0	1	0	0
+"330"	"Placidochromis elongatus.Makanjila"	0	0	0	2	0	1	3	0	33.3333333333333
+"331"	"Placidochromis elongatus.Southeast_arm"	0	0	0	3	1	1	2	0	75
+"332"	"Placidochromis hennydaviesae.Monkey_Bay"	0	0	0	1.5	1	0	2	0	25
+"333"	"Placidochromis johnstoni."	0	0	0	2	0	1	1	0	100
+"334"	"Placidochromis johnstoni.Chiofu"	0	0	0	5	1	2	3	0	83.3333333333333
+"335"	"Placidochromis longimanus.Chia_Lagoon"	0	0	0	3	2	0	5	0	20
+"336"	"Placidochromis mbunoides.Monkey_Bay"	0	0	0	0	0	0	1	0	0
+"337"	"Placidochromis milomo."	0	0	0	2	0	1	1	0	100
+"338"	"Placidochromis platyrhynchos.Southwest_arm"	0	0	0	0	0	0	1	0	0
+"339"	"Placidochromis polli.Chilumba"	0	0	0	0.5	0	0	1	0	0
+"340"	"Placidochromis sp. 'blue nose'.Makanjila"	0	0	0	0	0	0	1	0	0
+"341"	"Placidochromis trewavasae.Makanjila"	0	0	0	0	0	0	3	0	0
+"342"	"Placidochromis trewavasae.Monkey_Bay"	0	0	0	1	1	0	3	0	16.6666666666667
+"343"	"Placidochromis vulgaris.Nkhata_Bay"	1	1	0	1	1	0	1	50	50
+"344"	"Protomelas annectens.Chilumba"	0	0	0	0	0	0	1	0	0
+"345"	"Protomelas cf. fenestratus.Cape_Maclear"	0	0	0	0	0	0	1	0	0
+"346"	"Protomelas cf. kirkii.Lower_Shire_river"	0	0	0	0	0	0	1	0	0
+"347"	"Protomelas cf. triaenodon.Southwest_arm"	0	0	0	0	0	0	1	0	0
+"348"	"Protomelas fenestratus.Nkhata_Bay"	0	0	0	1	1	0	1	0	50
+"349"	"Protomelas insignis.Nkhata_Bay"	0	0	0	2	0	1	1	0	100
+"350"	"Protomelas kirkii.Lake_Malombe"	0	0	0	1	1	0	1	0	50
+"351"	"Protomelas kirkii.Nkhata_Bay"	0	0	0	2	0	1	1	0	100
+"352"	"Protomelas labridens.Nkhata_Bay"	0	0	0	1	1	0	1	0	50
+"353"	"Protomelas ornatus."	0	0	0	1	1	0	2	0	25
+"354"	"Protomelas ornatus.Chilumba"	0	0	0	4	2	1	4	0	50
+"355"	"Protomelas ornatus.Chiofu"	0	0	0	2	2	0	8	0	12.5
+"356"	"Protomelas similis.Chilumba"	0	0	0	1	1	0	1	0	50
+"357"	"Protomelas similis.Chiofu"	0	0	0	1	1	0	1	0	50
+"358"	"Protomelas similis.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"359"	"Protomelas sp. 'chilumba'.Chilumba"	0	0	0	1	1	0	1	0	50
+"360"	"Protomelas spilopterus.Southeast_arm"	0	0	0	1	1	0	1	0	50
+"361"	"Protomelas taeniolatus.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"362"	"Protomelas triaenodon.Chilumba"	0	0	0	0	0	0	1	0	0
+"363"	"Protomelas triaenodon.Southwest_arm"	0	0	0	1	1	0	1	0	50
+"364"	"Pseudosimochromis curvifrons.Lake_Tanganyika"	0	0	0	0	0	0	20	0	0
+"365"	"Pseudosimochromis pleurospilus.Lake_Tanganyika"	0	0	0	0	0	0	20	0	0
+"366"	"Pseudotropheus crabro.Chiofu"	0	0	0	1	1	0	2	0	25
+"367"	"Pseudotropheus elegans.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"368"	"Pseudotropheus fuscus.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"369"	"Pseudotropheus interruptus.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"370"	"Pseudotropheus johannii.Chiofu"	0	0	0	0	0	0	1	0	0
+"371"	"Pseudotropheus lanisticola.Makanjila"	0	0	0	0.5	0	0	1	0	0
+"372"	"Pseudotropheus lanisticola.Southeast_arm"	0	0	0	1	1	0	1	0	50
+"373"	"Pseudotropheus livingstonii.Lake_Malombe"	0	0	0	0	0	0	1	0	0
+"374"	"Pseudotropheus livingstonii.Southeast_arm"	0	0	0	1	1	0	1	0	50
+"375"	"Pseudotropheus lucerna.Nkhata_Bay"	0	0	0	0	0	0	3	0	0
+"376"	"Pseudotropheus sp. 'acei'.Makanjila"	0	0	0	0	0	0	1	0	0
+"377"	"Pseudotropheus sp..Southeast_arm"	0	0	0	0	0	0	1	0	0
+"378"	"Rhamphochromis esox"	0	0	0	0	0	0	2	0	0
+"379"	"Rhamphochromis ferox"	0	0	0	0	0	0	1	0	0
+"380"	"Rhamphochromis longiceps"	0	0	0	0	0	0	18	0	0
+"381"	"Rhamphochromis sp."	0	0	0	0	0	0	2	0	0
+"382"	"Rhamphochromis sp. 'Chilingali'"	0	0	0	0	0	0	9	0	0
+"383"	"Rhamphochromis sp. 'grey'"	0	0	0	0	0	0	2	0	0
+"384"	"Rhamphochromis sp. 'Kingiri brevis'"	0	0	0	0	0	0	1	0	0
+"385"	"Rhamphochromis sp. 'Kingiri dwarf'"	0	0	0	0	0	0	1	0	0
+"386"	"Rhamphochromis sp. 'long fin'"	0	0	0	0	0	0	1	0	0
+"387"	"Rhamphochromis sp. 'long snout'"	0	0	0	0	0	0	1	0	0
+"388"	"Rhamphochromis sp. 'maldeco'"	0	0	0	0	0	0	1	0	0
+"389"	"Rhamphochromis sp. 'orange chest'"	0	0	0	0	0	0	1	0	0
+"390"	"Rhamphochromis woodi"	0	0	0	0	0	0	3	0	0
+"391"	"Sciaenochromis benthicola.Monkey_Bay"	0	0	0	4.5	2	1	5	0	40
+"392"	"Sciaenochromis cf. benthicola.Chilumba"	0	0	0	1	1	0	2	0	25
+"393"	"Sciaenochromis cf. fryeri.Chiofu"	0	0	0	2	0	1	1	0	100
+"394"	"Sciaenochromis cf. fryeri.Nkhata_Bay"	0	0	0	2	0	1	1	0	100
+"395"	"Sciaenochromis sp. 'nyassae'.Chiofu"	0	0	0	1	1	0	1	0	50
+"396"	"Sciaenochromis sp. 'sand'.Monkey_Bay"	0	0	0	5	1	2	3	0	83.3333333333333
+"397"	"Serranochromis angusticeps."	0	0	0	0	0	0	1	0	0
+"398"	"Serranochromis robustus."	0	0	0	0	0	0	1	0	0
+"399"	"Serranochromis robustus.Nsinje_river"	0	0	0	0	0	0	1	0	0
+"400"	"Stigmatochromis cf. pleurospilus.Cape_Maclear"	0	0	0	2	0	1	1	0	100
+"401"	"Stigmatochromis macrorhynchos.Monkey_Bay"	0	0	0	5	1	2	3	0	83.3333333333333
+"402"	"Stigmatochromis macrorhynchos.Southwest_arm"	0	0	0	2	0	1	1	0	100
+"403"	"Stigmatochromis melanchros.Southeast_arm"	0	0	0	5	1	2	3	0	83.3333333333333
+"404"	"Stigmatochromis melanchros.Southwest_arm"	0	0	0	4	0	2	2	0	100
+"405"	"Stigmatochromis modestus.Cape_Maclear"	0	0	0	1	1	0	1	0	50
+"406"	"Stigmatochromis modestus.Chilumba"	0	0	0	2	0	1	2	0	50
+"407"	"Stigmatochromis modestus.Chiofu"	0	0	0	0	0	0	1	0	0
+"408"	"Stigmatochromis pholidophorus.Chiofu"	0	0	0	6	0	3	3	0	100
+"409"	"Stigmatochromis woodi.Makanjila"	0	0	0	6	0	3	3	0	100
+"410"	"Taeniochromis holotaenia.Metangula"	0	0	0	0	0	0	1	0	0
+"411"	"Taeniolethrinops furcicauda.Metangula"	0	0	0	0	0	0	1	0	0
+"412"	"Taeniolethrinops laticeps.Chiofu"	0	0	0	0	0	0	1	0	0
+"413"	"Taeniolethrinops laticeps.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"414"	"Taeniolethrinops macrorhynchus.Chilumba"	0	0	0	0	0	0	2	0	0
+"415"	"Taeniolethrinops macrorhynchus.Chiwanga"	0	0	0	0	0	0	1	0	0
+"416"	"Taeniolethrinops praeorbitalis.Makanjila"	0	0	0	1	1	0	1	0	50
+"417"	"Taeniolethrinops praeorbitalis.Southeast_arm"	0	0	0	0.5	0	0	1	0	0
+"418"	"Taeniolethrinops sp. 'furcicauda yellow'.Makanjila"	0	0	0	0	0	0	1	0	0
+"419"	"Taeniolethrinops sp. 'furcicauda yellow'.Southwest_arm"	0	0	0	0	0	0	1	0	0
+"420"	"Tramitichromis brevis.Chiofu"	0	0	0	0	0	0	1	0	0
+"421"	"Tramitichromis brevis.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"422"	"Tramitichromis intermedius.Southwest_arm"	0	0	0	0.5	0	0	1	0	0
+"423"	"Tramitichromis sp. 'east coast shallow'.Chiofu"	0	0	0	2	2	0	2	0	50
+"424"	"Tramitichromis sp. 'kande'."	0	0	0	0	0	0	1	0	0
+"425"	"Tramitichromis sp. 'kande'.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"426"	"Tramitichromis sp. 'red throat'.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"427"	"Tramitichromis sp. 'yellow throat'.Southeast_arm"	0	0	0	0	0	0	1	0	0
+"428"	"Trematocranus placodon.Chilumba"	0	0	0	0	0	0	1	0	0
+"429"	"Trematocranus placodon.Chiofu"	0	0	0	1	1	0	7	0	7.14285714285714
+"430"	"Trematocranus placodon.Southeast_arm"	0	0	0	7.5	5	0	18	0	13.8888888888889
+"431"	"Trematocranus placodon.Southwest_arm"	0	0	0	2	0	1	11	0	9.09090909090909
+"432"	"Trematocranus sp. 'cape maclear'.Cape_Maclear"	0	0	0	2	0	1	1	0	100
+"433"	"Tropheops cf. \"\"gold otter'.Cape_Maclear"	0	0	0	0	0	0	2	0	0
+"434"	"Tropheops cf. \"\"orange head'.Chilumba"	0	0	0	0	0	0	5	0	0
+"435"	"Tropheops cf. \"\"yellow gular'.Chiofu"	0	0	0	0	0	0	1	0	0
+"436"	"Tropheops gracilior.Cape_Maclear"	0	0	0	1	1	0	3	0	16.6666666666667
+"437"	"Tropheops microstoma.Cape_Maclear"	0	0	0	0	0	0	2	0	0
+"438"	"Tropheops sp. 'band'.Nkhata_Bay"	0	0	0	1	1	0	6	0	8.33333333333333
+"439"	"Tropheops sp. 'black'.Nkhata_Bay"	0	0	0	0	0	0	5	0	0
+"440"	"Tropheops sp. 'chilumba'.Chilumba"	0	0	0	1	1	0	16	0	3.125
+"441"	"Tropheops sp. 'chiofu 3'.Chiofu"	0	0	0	0	0	0	1	0	0
+"442"	"Tropheops sp. 'chiofu yellow'.Chiofu"	0	0	0	3	3	0	8	0	18.75
+"443"	"Tropheops sp. 'chiofu'.Chiofu"	0	0	0	1	1	0	1	0	50
+"444"	"Tropheops sp. 'deep gold'.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"445"	"Tropheops sp. 'mauve'.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"446"	"Tropheops sp. 'olive'.Chilumba"	0	0	0	0	0	0	1	0	0
+"447"	"Tropheops sp. 'olive'.Nkhata_Bay"	0	0	0	0	0	0	5	0	0
+"448"	"Tropheops sp. 'orange head'.Chilumba"	0	0	0	0	0	0	1	0	0
+"449"	"Tropheops sp. 'red cheek'.Cape_Maclear"	0	0	0	0.5	0	0	1	0	0
+"450"	"Tropheops sp. 'red fin'.Nkhata_Bay"	0	0	0	0	0	0	1	0	0
+"451"	"Tropheops sp. 'rust'.Nkhata_Bay"	0	0	0	0	0	0	2	0	0
+"452"	"Tropheops sp. 'white dorsal'.Chilumba"	0	0	0	0	0	0	3	0	0
+"453"	"Tropheops sp. 'yellow gular'.Chiofu"	0	0	0	0.5	0	0	16	0	0
+"454"	"Tropheops sp..Chilumba"	0	0	0	0	0	0	1	0	0
+"455"	"Tropheops sp..Nkhata_Bay"	0	0	0	0	0	0	2	0	0
+"456"	"Tropheops tropheops.Cape_Maclear"	0	0	0	2	2	0	4	0	25
+"457"	"Tyrannochromis macrostoma.Chilumba"	0	0	0	0	0	0	1	0	0
+"458"	"Tyrannochromis macrostoma.Chiofu"	0	0	0	1	1	0	1	0	50
+"459"	"Tyrannochromis nigriventer.Chilumba"	0	0	0	0	0	0	1	0	0
+"460"	"Tyrannochromis nigriventer.Chiofu"	0	0	0	0	0	0	2	0	0
+"461"	"Tyrannochromis nigriventer.Minos_reef"	0	0	0	0	0	0	1	0	0
+"462"	"Tyrannochromis nigriventer.Nkhata_Bay"	0	0	0	0	0	0	2	0	0
+"463"	"Xenotilapia leptura.Lake_Tanganyika"	0	0	0	0	0	0	18	0	0

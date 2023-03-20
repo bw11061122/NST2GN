@@ -1,0 +1,314 @@
+"name"	"sum_trps"	"sum_het_trps"	"sum_hom_trps"	"sum_nlgn"	"sum_het_nlgn"	"sum_hom_nlgn"	"N"	"maf_trps"	"maf_nlgn"
+"1"	" "	0	0	0	2.5	0	1	3	0	33.3333333333333
+"2"	" sp. 'Rukwa sunset'"	0	0	0	0	0	0	1	0	0
+"3"	"Abactochromis labrosus"	0	0	0	1	1	0	2	0	25
+"4"	"Alticorpus geoffreyi"	0	0	0	0	0	0	6	0	0
+"5"	"Alticorpus macrocleithrum"	0	0	0	0	0	0	1	0	0
+"6"	"Alticorpus mentale"	0	0	0	0	0	0	1	0	0
+"7"	"Alticorpus peterdaviesi"	0	0	0	0	0	0	18	0	0
+"8"	"Altolamprologus compressiceps"	0	0	0	0	0	0	20	0	0
+"9"	"Andinocara coeruleopunctatus"	0	0	0	0	0	0	1	0	0
+"10"	"Aristochromis christyi"	0	0	0	2	0	1	1	0	100
+"11"	"Astatotilapia bloyeti"	0	0	0	0	0	0	3	0	0
+"12"	"Astatotilapia calliptera"	679	272	176	745	281	205	741	42.1052631578947	46.6261808367072
+"13"	"Astatotilapia gigliolii"	0	0	0	0.5	0	0	5	0	0
+"14"	"Astatotilapia sp. 'Ruaha blue'"	0	0	0	0	0	0	15	0	0
+"15"	"Astatotilapia sp. 'Ruaha yellow'"	0	0	0	0	0	0	2	0	0
+"16"	"Astatotilapia sp. 'Rufiji blue'"	0	0	0	0	0	0	2	0	0
+"17"	"Astatotilapia sp. 'Rujewa'"	0	0	0	0	0	0	1	0	0
+"18"	"Astatotilapia sp. 'Rukwa blue'"	0	0	0	0	0	0	1	0	0
+"19"	"Astatotilapia sp. 'Rukwa large yellow'"	0	0	0	0	0	0	1	0	0
+"20"	"Aulonocara ethelwynnae"	0	0	0	0	0	0	2	0	0
+"21"	"Aulonocara nyassae"	0	0	0	2	0	1	1	0	100
+"22"	"Aulonocara rostratum"	0	0	0	0.5	0	0	3	0	0
+"23"	"Aulonocara saulosi"	0	0	0	2	2	0	2	0	50
+"24"	"Aulonocara sp."	0	0	0	2	2	0	6	0	16.6666666666667
+"25"	"Aulonocara sp. 'black chin orange'"	0	0	0	0	0	0	2	0	0
+"26"	"Aulonocara sp. 'blue Chilumba'"	0	0	0	0	0	0	1	0	0
+"27"	"Aulonocara sp. 'blue orange'"	0	0	0	4	4	0	10	0	20
+"28"	"Aulonocara sp. 'brevirostrus yellow'"	0	0	0	1	1	0	3	0	16.6666666666667
+"29"	"Aulonocara sp. 'copper'"	0	0	0	0	0	0	3	0	0
+"30"	"Aulonocara sp. 'deep'"	0	0	0	0	0	0	2	0	0
+"31"	"Aulonocara sp. 'gold'"	0	0	0	2	0	1	1	0	100
+"32"	"Aulonocara sp. 'large slender'"	0	0	0	0	0	0	1	0	0
+"33"	"Aulonocara sp. 'minutus'"	0	0	0	0.5	0	0	1	0	0
+"34"	"Aulonocara sp. 'slender orange back'"	0	0	0	1	1	0	12	0	4.16666666666667
+"35"	"Aulonocara sp. 'yellow'"	0	0	0	0	0	0	13	0	0
+"36"	"Aulonocara stonemani"	0	0	0	0	0	0	1	0	0
+"37"	"Aulonocara stuartgranti"	0	0	0	6.5	4	1	10	0	30
+"38"	"Aulonocranus dewindti"	0	0	0	0	0	0	20	0	0
+"39"	"Bathybates fasciatus"	0	0	0	0	0	0	20	0	0
+"40"	"Bathybates leo"	0	0	0	0	0	0	20	0	0
+"41"	"Benthochromis melanoides"	0	0	0	0	0	0	19	0	0
+"42"	"Buccochromis heterotaenia"	0	0	0	0	0	0	1	0	0
+"43"	"Buccochromis lepturus"	0	0	0	0	0	0	1	0	0
+"44"	"Buccochromis nototaenia"	0	0	0	0	0	0	2	0	0
+"45"	"Buccochromis rhoadesii"	0	0	0	0	0	0	5	0	0
+"46"	"Buccochromis sp. 'whitefins'"	0	0	0	0	0	0	1	0	0
+"47"	"Champsochromis caeruleus"	0	0	0	1	1	0	3	0	16.6666666666667
+"48"	"Champsochromis cf. spilorhynchus"	0	0	0	1	1	0	1	0	50
+"49"	"Cheilochromis euchilus"	0	0	0	2.5	2	0	5	0	20
+"50"	"Chilotilapia rhoadesii"	0	0	0	12.5	7	1	17	0	26.4705882352941
+"51"	"Chindongo elongatus"	0	0	0	0	0	0	2	0	0
+"52"	"Chindongo minutus"	0	0	0	0	0	0	2	0	0
+"53"	"Copadichromis borleyi"	0	0	0	2	2	0	3	0	33.3333333333333
+"54"	"Copadichromis chrysonotus"	0	0	0	178	35	71	110	0	80.4545454545455
+"55"	"Copadichromis ilesi"	0	0	0	2	0	1	1	0	100
+"56"	"Copadichromis jacksoni"	0	0	0	0	0	0	1	0	0
+"57"	"Copadichromis likomae"	0	0	0	0	0	0	1	0	0
+"58"	"Copadichromis quadrimaculatus"	0	0	0	0.5	0	0	2	0	0
+"59"	"Copadichromis sp."	0	0	0	1	1	0	1	0	50
+"60"	"Copadichromis sp. 'kawanga'"	0	0	0	1	1	0	1	0	50
+"61"	"Copadichromis sp. 'orange and no spot'"	0	0	0	0	0	0	1	0	0
+"62"	"Copadichromis trewavasae"	0	0	0	2	0	1	1	0	100
+"63"	"Copadichromis trimaculatus"	0	0	0	1	1	0	2	0	25
+"64"	"Copadichromis verduyni"	0	0	0	4.5	2	1	4	0	50
+"65"	"Copadichromis virginalis"	0	0	0	128	62	30	148	0	41.2162162162162
+"66"	"Coptodon rendalli"	0	0	0	0	0	0	1	0	0
+"67"	"Corematodus taeniatus"	0	0	0	1	1	0	1	0	50
+"68"	"Ctenochromis pectoralis"	0	0	0	0	0	0	1	0	0
+"69"	"Ctenopharynx intermedius"	0	0	0	0.5	0	0	3	0	0
+"70"	"Ctenopharynx nitidus"	0	0	0	0	0	0	1	0	0
+"71"	"Ctenopharynx pictus"	0	0	0	0	0	0	2	0	0
+"72"	"Cunningtonia longiventralis"	0	0	0	0	0	0	19	0	0
+"73"	"Cyathochromis obliquidens"	0	0	0	1	1	0	2	0	25
+"74"	"Cynotilapia aurifrons"	0	0	0	0	0	0	2	0	0
+"75"	"Cynotilapia axelrodi"	0	0	0	0	0	0	1	0	0
+"76"	"Cynotilapia zebroides"	0	0	0	7	3	2	67	0	5.22388059701492
+"77"	"Cyphotilapia frontosa"	0	0	0	0	0	0	9	0	0
+"78"	"Cyphotilapia gibberosa"	0	0	0	0	0	0	11	0	0
+"79"	"Cyrtocara moorii"	0	0	0	1	1	0	1	0	50
+"80"	"Dimidiochromis compressiceps"	0	0	0	2	0	1	1	0	100
+"81"	"Dimidiochromis kiwinge"	0	0	0	6	6	0	11	0	27.2727272727273
+"82"	"Dimidiochromis strigatus"	0	0	0	8	2	3	5	0	80
+"83"	"Diplotaxodon apogon"	0	0	0	0	0	0	1	0	0
+"84"	"Diplotaxodon argenteus"	0	0	0	0	0	0	1	0	0
+"85"	"Diplotaxodon cf. argenteus"	0	0	0	0	0	0	1	0	0
+"86"	"Diplotaxodon cf. ecclesi"	0	0	0	0	0	0	1	0	0
+"87"	"Diplotaxodon ecclesi"	0	0	0	0	0	0	1	0	0
+"88"	"Diplotaxodon greenwoodi"	0	0	0	0	0	0	1	0	0
+"89"	"Diplotaxodon limnothrissa"	0	0	0	1	1	0	33	0	1.51515151515152
+"90"	"Diplotaxodon macrops"	0	0	0	1	1	0	7	0	7.14285714285714
+"91"	"Diplotaxodon sp. 'big eye'"	0	0	0	0	0	0	5	0	0
+"92"	"Diplotaxodon sp. 'holochromis'"	0	0	0	0	0	0	3	0	0
+"93"	"Diplotaxodon sp. 'limnothrissa black pelvic'"	0	0	0	0.5	0	0	1	0	0
+"94"	"Diplotaxodon sp. 'macrops black dorsal'"	0	0	0	0	0	0	16	0	0
+"95"	"Diplotaxodon sp. 'ngulube'"	0	0	0	0	0	0	1	0	0
+"96"	"Diplotaxodon sp. 'offshore'"	0	0	0	0	0	0	1	0	0
+"97"	"Diplotaxodon sp. 'similis large'"	0	0	0	0	0	0	2	0	0
+"98"	"Diplotaxodon sp. 'similis white back'"	0	0	0	0	0	0	1	0	0
+"99"	"Diplotaxodon sp. 'similis'"	0	0	0	0	0	0	2	0	0
+"100"	"Fossorochromis rostratus"	0	0	0	11	7	2	38	0	14.4736842105263
+"101"	"Genyochromis mento"	0	0	0	0	0	0	1	0	0
+"102"	"Gephyrochromis lawsi"	0	0	0	0	0	0	1	0	0
+"103"	"Gephyrochromis sp. 'zebroides'"	0	0	0	0	0	0	1	0	0
+"104"	"Gnathochromis pfefferi"	0	0	0	0	0	0	20	0	0
+"105"	"Hemibates stenosoma"	0	0	0	0	0	0	32	0	0
+"106"	"Hemitaeniochromis brachyrhynchus"	0	0	0	2	0	1	1	0	100
+"107"	"Hemitaeniochromis sp. 'deep'"	0	0	0	0	0	0	1	0	0
+"108"	"Hemitaeniochromis urotaenia"	0	0	0	2	0	1	2	0	50
+"109"	"Hemitilapia oxyrhynchus"	0	0	0	0.5	0	0	2	0	0
+"110"	"Iodotropheus sprengerae"	0	0	0	0	0	0	1	0	0
+"111"	"Julidochromis ornatus"	0	0	0	0	0	0	20	0	0
+"112"	"Labeotropheus fuelleborni"	0	0	0	1	1	0	27	0	1.85185185185185
+"113"	"Labeotropheus trewavasae"	0	0	0	0	0	0	30	0	0
+"114"	"Labidochromis caeruleus"	0	0	0	0	0	0	1	0	0
+"115"	"Labidochromis cf. vellicans"	0	0	0	0	0	0	1	0	0
+"116"	"Labidochromis sp."	0	0	0	0	0	0	1	0	0
+"117"	"Labidochromis sp. 'zebra eastern'"	0	0	0	0	0	0	1	0	0
+"118"	"Lamprologus lemairii"	0	0	0	0	0	0	16	0	0
+"119"	"Lepidiolamprologus profundicola"	0	0	0	0	0	0	17	0	0
+"120"	"Lethrinops argenteus"	0	0	0	2	2	0	2	0	50
+"121"	"Lethrinops cf. albus"	0	0	0	0	0	0	1	0	0
+"122"	"Lethrinops cf. macrochir"	0	0	0	2	0	1	1	0	100
+"123"	"Lethrinops cf. oculatus"	0	0	0	0	0	0	1	0	0
+"124"	"Lethrinops gossei"	0	0	0	2	2	0	21	0	4.76190476190476
+"125"	"Lethrinops lethrinus"	0	0	0	3	3	0	15	0	10
+"126"	"Lethrinops longimanus"	0	0	0	0	0	0	1	0	0
+"127"	"Lethrinops parvidens"	0	0	0	0	0	0	1	0	0
+"128"	"Lethrinops sp. 'albus deep water'"	0	0	0	0	0	0	2	0	0
+"129"	"Lethrinops sp. 'albus green head'"	0	0	0	0	0	0	1	0	0
+"130"	"Lethrinops sp. 'albus red head'"	0	0	0	0	0	0	1	0	0
+"131"	"Lethrinops sp. 'black chin'"	0	0	0	0	0	0	1	0	0
+"132"	"Lethrinops sp. 'blue nose'"	0	0	0	0	0	0	1	0	0
+"133"	"Lethrinops sp. 'dark'"	0	0	0	0	0	0	1	0	0
+"134"	"Lethrinops sp. 'longipinnis blue head'"	0	0	0	0	0	0	1	0	0
+"135"	"Lethrinops sp. 'longipinnis white lappets'"	0	0	0	0	0	0	1	0	0
+"136"	"Lethrinops sp. 'oliveri'"	0	0	0	0	0	0	1	0	0
+"137"	"Lethrinops sp. 'six bar'"	0	0	0	0	0	0	1	0	0
+"138"	"Lethrinops sp. 'yellow head'"	0	0	0	0.5	0	0	1	0	0
+"139"	"Lobochilotes labiatus"	0	0	0	0	0	0	20	0	0
+"140"	"Maylandia aurora"	0	0	0	0	0	0	1	0	0
+"141"	"Maylandia callainos"	0	0	0	0	0	0	26	0	0
+"142"	"Maylandia emmiltos"	0	0	0	0	0	0	30	0	0
+"143"	"Maylandia estherae"	0	0	0	0	0	0	2	0	0
+"144"	"Maylandia fainzilberi"	0	0	0	0	0	0	72	0	0
+"145"	"Maylandia sp. 'lanisticola north'"	0	0	0	0	0	0	7	0	0
+"146"	"Maylandia sp. 'pearly'"	0	0	0	0	0	0	17	0	0
+"147"	"Maylandia sp. 'zebra gold'"	0	0	0	0	0	0	1	0	0
+"148"	"Maylandia zebra"	0	0	0	0	0	0	81	0	0
+"149"	"Mchenga sp. 'black yellow'"	0	0	0	1	1	0	2	0	25
+"150"	"Mchenga sp. 'chiofu'"	0	0	0	0	0	0	1	0	0
+"151"	"Mchenga sp. 'chirombo 1'"	0	0	0	0	0	0	1	0	0
+"152"	"Mchenga sp. 'chirombo 2'"	0	0	0	2	0	1	1	0	100
+"153"	"Melanochromis auratus"	0	0	0	0	0	0	19	0	0
+"154"	"Melanochromis baliodigma"	0	0	0	0	0	0	1	0	0
+"155"	"Melanochromis dialeptos"	0	0	0	0	0	0	1	0	0
+"156"	"Melanochromis loriae"	0	0	0	0	0	0	1	0	0
+"157"	"Melanochromis robustus"	0	0	0	0	0	0	1	0	0
+"158"	"Melanochromis simulans"	0	0	0	0	0	0	1	0	0
+"159"	"Mylochromis anaphyrmus"	0	0	0	1.5	1	0	8	0	6.25
+"160"	"Mylochromis cf. ericotaenia"	0	0	0	0	0	0	1	0	0
+"161"	"Mylochromis cf. guentheri"	0	0	0	0	0	0	1	0	0
+"162"	"Mylochromis cf. mollis"	0	0	0	0	0	0	1	0	0
+"163"	"Mylochromis cf. obtusus"	0	0	0	0	0	0	1	0	0
+"164"	"Mylochromis cf. subocularis"	0	0	0	0	0	0	1	0	0
+"165"	"Mylochromis ensatus"	0	0	0	0.5	0	0	1	0	0
+"166"	"Mylochromis epichoralis"	0	0	0	0	0	0	1	0	0
+"167"	"Mylochromis labidodon"	0	0	0	0	0	0	1	0	0
+"168"	"Mylochromis melanonotus"	0	0	0	0	0	0	1	0	0
+"169"	"Mylochromis melanotaenia"	0	0	0	0	0	0	1	0	0
+"170"	"Mylochromis sp."	0	0	0	0	0	0	1	0	0
+"171"	"Mylochromis spilostichus"	0	0	0	8	0	4	4	0	100
+"172"	"Mylochromis subocularis"	0	0	0	1	0	0	22	0	0
+"173"	"Naevochromis chrysogaster"	0	0	0	2	0	1	1	0	100
+"174"	"Neolamprologus brevis"	0	0	0	0	0	0	19	0	0
+"175"	"Neolamprologus toae"	0	0	0	0	0	0	15	0	0
+"176"	"Nimbochromis fuscotaeniatus"	0	0	0	0	0	0	1	0	0
+"177"	"Nimbochromis linni"	0	0	0	2	0	1	1	0	100
+"178"	"Nimbochromis livingstonii"	0	0	0	4	0	2	2	0	100
+"179"	"Nimbochromis polystigma"	0	0	0	2	0	1	1	0	100
+"180"	"Nimbochromis venustus"	0	0	0	2	0	1	1	0	100
+"181"	"Oreochromis karongae"	0	0	0	0	0	0	1	0	0
+"182"	"Oreochromis shiranus"	0	0	0	0	0	0	1	0	0
+"183"	"Oreochromis squamipinnis"	0	0	0	0	0	0	1	0	0
+"184"	"Otopharynx argyrosoma"	0	0	0	73	1	36	37	0	98.6486486486486
+"185"	"Otopharynx auromarginatus"	0	0	0	2	2	0	2	0	50
+"186"	"Otopharynx brooksi"	0	0	0	4	0	2	2	0	100
+"187"	"Otopharynx cf. decorus"	0	0	0	2	0	1	1	0	100
+"188"	"Otopharynx decorus"	0	0	0	8	0	4	4	0	100
+"189"	"Otopharynx lithobates"	0	0	0	2	0	1	1	0	100
+"190"	"Otopharynx selenurus"	0	0	0	1.5	1	0	2	0	25
+"191"	"Otopharynx sp. 'brooksi Nkhata'"	0	0	0	2	0	1	1	0	100
+"192"	"Otopharynx sp. 'brooksi nkhata'"	0	0	0	2	0	1	1	0	100
+"193"	"Otopharynx sp. 'deep'"	0	0	0	0	0	0	1	0	0
+"194"	"Otopharynx sp. 'heterodon nankumba'"	0	0	0	2	0	1	2	0	50
+"195"	"Otopharynx speciosus"	0	0	0	0	0	0	6	0	0
+"196"	"Otopharynx tetrastigma"	0	0	0	6	4	1	7	0	42.8571428571429
+"197"	"Pallidochromis tokolosh"	0	0	0	0	0	0	1	0	0
+"198"	"Petrochromis fasciolatus"	0	0	0	0	0	0	20	0	0
+"199"	"Petrochromis polyodon"	0	0	0	0	0	0	20	0	0
+"200"	"Petrotilapia cf. tridentiger"	0	0	0	0	0	0	3	0	0
+"201"	"Petrotilapia genalutea"	0	0	0	0	0	0	15	0	0
+"202"	"Petrotilapia microgalana"	0	0	0	0.5	0	0	12	0	0
+"203"	"Petrotilapia nigra"	0	0	0	0	0	0	1	0	0
+"204"	"Petrotilapia sp."	0	0	0	0.5	0	0	1	0	0
+"205"	"Petrotilapia sp. 'black flanks'"	0	0	0	0	0	0	1	0	0
+"206"	"Petrotilapia sp. 'ruare'"	0	0	0	0	0	0	1	0	0
+"207"	"Pharyngochromis acuticeps"	0	0	0	0	0	0	1	0	0
+"208"	"Placidochromis acutirostris"	0	0	0	0.5	0	0	2	0	0
+"209"	"Placidochromis boops"	0	0	0	0.5	0	0	1	0	0
+"210"	"Placidochromis cf. nkhotakotae"	0	0	0	0	0	0	1	0	0
+"211"	"Placidochromis electra"	0	0	0	0	0	0	1	0	0
+"212"	"Placidochromis elongatus"	0	0	0	5	1	2	5	0	50
+"213"	"Placidochromis hennydaviesae"	0	0	0	1.5	1	0	2	0	25
+"214"	"Placidochromis johnstoni"	0	0	0	7	1	3	4	0	87.5
+"215"	"Placidochromis longimanus"	0	0	0	3	2	0	5	0	20
+"216"	"Placidochromis mbunoides"	0	0	0	0	0	0	1	0	0
+"217"	"Placidochromis milomo"	0	0	0	2	0	1	1	0	100
+"218"	"Placidochromis platyrhynchos"	0	0	0	0	0	0	1	0	0
+"219"	"Placidochromis polli"	0	0	0	0.5	0	0	1	0	0
+"220"	"Placidochromis sp. 'blue nose'"	0	0	0	0	0	0	1	0	0
+"221"	"Placidochromis trewavasae"	0	0	0	1	1	0	6	0	8.33333333333333
+"222"	"Placidochromis vulgaris"	1	1	0	1	1	0	1	50	50
+"223"	"Protomelas annectens"	0	0	0	0	0	0	1	0	0
+"224"	"Protomelas cf. fenestratus"	0	0	0	0	0	0	1	0	0
+"225"	"Protomelas cf. kirkii"	0	0	0	0	0	0	1	0	0
+"226"	"Protomelas cf. triaenodon"	0	0	0	0	0	0	1	0	0
+"227"	"Protomelas fenestratus"	0	0	0	1	1	0	1	0	50
+"228"	"Protomelas insignis"	0	0	0	2	0	1	1	0	100
+"229"	"Protomelas kirkii"	0	0	0	3	1	1	2	0	75
+"230"	"Protomelas labridens"	0	0	0	1	1	0	1	0	50
+"231"	"Protomelas ornatus"	0	0	0	7	5	1	14	0	25
+"232"	"Protomelas similis"	0	0	0	2	2	0	3	0	33.3333333333333
+"233"	"Protomelas sp. 'chilumba'"	0	0	0	1	1	0	1	0	50
+"234"	"Protomelas spilopterus"	0	0	0	1	1	0	1	0	50
+"235"	"Protomelas taeniolatus"	0	0	0	0	0	0	1	0	0
+"236"	"Protomelas triaenodon"	0	0	0	1	1	0	2	0	25
+"237"	"Pseudosimochromis curvifrons"	0	0	0	0	0	0	20	0	0
+"238"	"Pseudosimochromis pleurospilus"	0	0	0	0	0	0	20	0	0
+"239"	"Pseudotropheus crabro"	0	0	0	1	1	0	2	0	25
+"240"	"Pseudotropheus elegans"	0	0	0	0	0	0	1	0	0
+"241"	"Pseudotropheus fuscus"	0	0	0	0	0	0	1	0	0
+"242"	"Pseudotropheus interruptus"	0	0	0	0	0	0	1	0	0
+"243"	"Pseudotropheus johannii"	0	0	0	0	0	0	1	0	0
+"244"	"Pseudotropheus lanisticola"	0	0	0	1.5	1	0	2	0	25
+"245"	"Pseudotropheus livingstonii"	0	0	0	1	1	0	2	0	25
+"246"	"Pseudotropheus lucerna"	0	0	0	0	0	0	3	0	0
+"247"	"Pseudotropheus sp."	0	0	0	0	0	0	1	0	0
+"248"	"Pseudotropheus sp. 'acei'"	0	0	0	0	0	0	1	0	0
+"249"	"Rhamphochromis esox"	0	0	0	0	0	0	2	0	0
+"250"	"Rhamphochromis ferox"	0	0	0	0	0	0	1	0	0
+"251"	"Rhamphochromis longiceps"	0	0	0	0	0	0	18	0	0
+"252"	"Rhamphochromis sp."	0	0	0	0	0	0	2	0	0
+"253"	"Rhamphochromis sp. 'Chilingali'"	0	0	0	0	0	0	9	0	0
+"254"	"Rhamphochromis sp. 'Kingiri brevis'"	0	0	0	0	0	0	1	0	0
+"255"	"Rhamphochromis sp. 'Kingiri dwarf'"	0	0	0	0	0	0	1	0	0
+"256"	"Rhamphochromis sp. 'grey'"	0	0	0	0	0	0	2	0	0
+"257"	"Rhamphochromis sp. 'long fin'"	0	0	0	0	0	0	1	0	0
+"258"	"Rhamphochromis sp. 'long snout'"	0	0	0	0	0	0	1	0	0
+"259"	"Rhamphochromis sp. 'maldeco'"	0	0	0	0	0	0	1	0	0
+"260"	"Rhamphochromis sp. 'orange chest'"	0	0	0	0	0	0	1	0	0
+"261"	"Rhamphochromis woodi"	0	0	0	0	0	0	3	0	0
+"262"	"Sciaenochromis benthicola"	0	0	0	4.5	2	1	5	0	40
+"263"	"Sciaenochromis cf. benthicola"	0	0	0	1	1	0	2	0	25
+"264"	"Sciaenochromis cf. fryeri"	0	0	0	4	0	2	2	0	100
+"265"	"Sciaenochromis sp. 'nyassae'"	0	0	0	1	1	0	1	0	50
+"266"	"Sciaenochromis sp. 'sand'"	0	0	0	5	1	2	3	0	83.3333333333333
+"267"	"Serranochromis angusticeps"	0	0	0	0	0	0	1	0	0
+"268"	"Serranochromis robustus"	0	0	0	0	0	0	2	0	0
+"269"	"Stigmatochromis cf. pleurospilus"	0	0	0	2	0	1	1	0	100
+"270"	"Stigmatochromis macrorhynchos"	0	0	0	7	1	3	4	0	87.5
+"271"	"Stigmatochromis melanchros"	0	0	0	9	1	4	5	0	90
+"272"	"Stigmatochromis modestus"	0	0	0	3	1	1	4	0	37.5
+"273"	"Stigmatochromis pholidophorus"	0	0	0	6	0	3	3	0	100
+"274"	"Stigmatochromis woodi"	0	0	0	6	0	3	3	0	100
+"275"	"Taeniochromis holotaenia"	0	0	0	0	0	0	1	0	0
+"276"	"Taeniolethrinops furcicauda"	0	0	0	0	0	0	1	0	0
+"277"	"Taeniolethrinops laticeps"	0	0	0	0	0	0	2	0	0
+"278"	"Taeniolethrinops macrorhynchus"	0	0	0	0	0	0	3	0	0
+"279"	"Taeniolethrinops praeorbitalis"	0	0	0	1.5	1	0	2	0	25
+"280"	"Taeniolethrinops sp. 'furcicauda yellow'"	0	0	0	0	0	0	2	0	0
+"281"	"Tramitichromis brevis"	0	0	0	0	0	0	2	0	0
+"282"	"Tramitichromis intermedius"	0	0	0	0.5	0	0	1	0	0
+"283"	"Tramitichromis sp. 'east coast shallow'"	0	0	0	2	2	0	2	0	50
+"284"	"Tramitichromis sp. 'kande'"	0	0	0	0	0	0	2	0	0
+"285"	"Tramitichromis sp. 'red throat'"	0	0	0	0	0	0	1	0	0
+"286"	"Tramitichromis sp. 'yellow throat'"	0	0	0	0	0	0	1	0	0
+"287"	"Trematocranus placodon"	0	0	0	10.5	6	1	37	0	10.8108108108108
+"288"	"Trematocranus sp. 'cape maclear'"	0	0	0	2	0	1	1	0	100
+"289"	"Tropheops cf. \"\"gold otter'"	0	0	0	0	0	0	2	0	0
+"290"	"Tropheops cf. \"\"orange head'"	0	0	0	0	0	0	5	0	0
+"291"	"Tropheops cf. \"\"yellow gular'"	0	0	0	0	0	0	1	0	0
+"292"	"Tropheops gracilior"	0	0	0	1	1	0	3	0	16.6666666666667
+"293"	"Tropheops microstoma"	0	0	0	0	0	0	2	0	0
+"294"	"Tropheops sp."	0	0	0	0	0	0	3	0	0
+"295"	"Tropheops sp. 'band'"	0	0	0	1	1	0	6	0	8.33333333333333
+"296"	"Tropheops sp. 'black'"	0	0	0	0	0	0	5	0	0
+"297"	"Tropheops sp. 'chilumba'"	0	0	0	1	1	0	16	0	3.125
+"298"	"Tropheops sp. 'chiofu 3'"	0	0	0	0	0	0	1	0	0
+"299"	"Tropheops sp. 'chiofu yellow'"	0	0	0	3	3	0	8	0	18.75
+"300"	"Tropheops sp. 'chiofu'"	0	0	0	1	1	0	1	0	50
+"301"	"Tropheops sp. 'deep gold'"	0	0	0	0	0	0	1	0	0
+"302"	"Tropheops sp. 'mauve'"	0	0	0	0	0	0	1	0	0
+"303"	"Tropheops sp. 'olive'"	0	0	0	0	0	0	6	0	0
+"304"	"Tropheops sp. 'orange head'"	0	0	0	0	0	0	1	0	0
+"305"	"Tropheops sp. 'red cheek'"	0	0	0	0.5	0	0	1	0	0
+"306"	"Tropheops sp. 'red fin'"	0	0	0	0	0	0	1	0	0
+"307"	"Tropheops sp. 'rust'"	0	0	0	0	0	0	2	0	0
+"308"	"Tropheops sp. 'white dorsal'"	0	0	0	0	0	0	3	0	0
+"309"	"Tropheops sp. 'yellow gular'"	0	0	0	0.5	0	0	16	0	0
+"310"	"Tropheops tropheops"	0	0	0	2	2	0	4	0	25
+"311"	"Tyrannochromis macrostoma"	0	0	0	1	1	0	2	0	25
+"312"	"Tyrannochromis nigriventer"	0	0	0	0	0	0	6	0	0
+"313"	"Xenotilapia leptura"	0	0	0	0	0	0	18	0	0

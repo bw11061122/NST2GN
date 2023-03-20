@@ -1,0 +1,17 @@
+family	Astatotilapia calliptera.Lake_Masoko	Astatotilapia calliptera.Lake_Kingiri	Labeotropheus fuelleborni.Chilumba	Labeotropheus trewavasae.Chilumba	Cynotilapia zebroides.Cape_Maclear	Maylandia zebra.Cape_Maclear	Copadichromis virginalis.Southwest_arm	Copadichromis virginalis.Lake_Malombe	Copadichromis chrysonotus.Lake_Malombe	Chilotilapia rhoadesii	Fossorochromis rostratus.Lake_Malombe	Otopharynx argyrosoma.Southeast_arm	Alticorpus peterdaviesi.Cape_Maclear	Rhamphochromis longiceps	Diplotaxodon limnothrissa.Southwest_arm	sum_ins_all
+1	Unknown-25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	1
+2	Pao-15	0	0	0	0	2	4	0	0	0	0	0	0	0	0	0	2
+3	Unknown-27	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	2
+4	Helitron-1	0	0	1	0	1	0	2	1	0	0	0	0	0	0	1	5
+5	L2-30	0	0	0	0	4	2	0	1	0	6	1	0	6	0	0	6
+6	Gypsy-36	0	1	0	1	4	3	4	0	0	0	2	1	0	0	2	8
+7	L1-Tx1-4	0	0	1	0	3	5	2	0	0	0	0	1	7	12	2	8
+8	Unknown-4	1	1	10	8	0	2	0	3	1	1	3	0	0	13	4	11
+9	Unknown-45	0	0	1	1	1	0	10	15	5	2	15	11	4	1	10	12
+10	Unknown-58	100	94	10	12	164	39	0	3	19	57	0	90	32	0	1	12
+11	TcMar-Tc1-12	0	0	8	8	10	7	6	7	6	4	5	8	3	3	7	13
+12	Unknown-10	0	0	15	20	2	2	2	14	2	6	5	2	4	7	8	13
+13	Unknown-49	4	1	1	0	3	1	0	3	3	2	6	5	7	4	5	13
+14	Pao-1	2	14	3	3	4	3	4	5	3	3	8	2	1	1	0	14
+15	Pao-8	24	20	21	15	15	31	9	9	15	15	0	20	15	15	41	14
+16	Unknown-29	1	0	4	1	1	1	1	1	6	7	7	4	15	12	14	14
