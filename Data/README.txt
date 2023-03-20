@@ -16,7 +16,7 @@ Note that data on SNPs (used for comparison during the project) is present in th
     23-3-15_meta_table_report.txt (txt format), 23-3-15_report_meta_table1.xlsx (xlsx format)
     ## table included in my final report to show sequencing depth by species by location 
     23-3-1_chrom_sizes.txt ## sizes of chromosomes of the AstCal1.2 genome 
-### vcf
+### vcf (these are available in the folder on the cluster, but not on github)
     cichlid_all_MEI_biallelic.vcf.gz ## raw output from MEGANE (insertions)
     cichlid_all_MEA_biallelic.vcf.gz ## raw output from MEGANE (deletions)
     cichlid_all_MEI_biallelic_no_meta_encoded.vcf.gz ## output from MEGANE (removed metadata, encoded genotypes)
