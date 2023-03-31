@@ -32,14 +32,14 @@ Brief summary of each folder:
 12. Analysis of families contributing most insertions in each population
 13. Comparison to equal-sized sets of SNPs 
 14. Correlation between coverage of a given sample number of sites identified (quality control) 
+15. Kruskal-Wallis test (number of insertions identified in a given family (normalised to a given population) ~ population, by TE family) 
 
 Additional data (not in the report, potentially relevant for me / for the work of the group / supplementary)
 
-15. Analysis of GWAS hits (from a GWAS performed in the group) 
 16. Analysis of the distribution of different genotypes identified 
 17. Population clustering (UMAP, tSNE)
 18. Analysis of the relationship between number of insertions and % sites shared
-19. Kruskal-Wallis test (number of insertions identified in a given family (normalised to a given population) ~ population, by TE family) 
+19. Analysis of GWAS hits (from a GWAS performed in the group) 
  
 Data: metadata, final vcf files (not available on github due to size), TE annotation library (MWCichlidTE-3)
 
